@@ -17,3 +17,5 @@ git clone https://github.com/UsmanIlamdin/power-electronics-project.git
 - add your contributions into assigned branch by working in same directory where clone files saved. after copypast or changing files go to bottom left corner add summary and your comment and commnit to your assigned branch then create pull requet to add them into the discion and master using any browers.
 - before commiting make sure you are add in the assigned branch and working 
   repository by viewing th upper bar of desktop app.
+  
+  - hello everyone
