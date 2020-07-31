@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.24)  24 JUL 2020 22:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.24)  31 JUL 2020 12:41
 entering extended mode
-**"c:/Users/Usman IlamDin/Desktop/Report/uet_thesis.tex"
-("c:/Users/Usman IlamDin/Desktop/Report/uet_thesis.tex"
+**"c:/Users/Usman IlamDin/Documents/GitHub/power-electronics-project/Report/uet_thesis.tex"
+("c:/Users/Usman IlamDin/Documents/GitHub/power-electronics-project/Report/uet_thesis.tex"
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-07-17> ("c:/Users\Usman IlamDin\Desktop\Report\uet_thesis.cls"
+L3 programming layer <2020-07-17> ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.cls"
 Document Class: uet_thesis 2010/22/03 v1.1 LaTeX document class
 ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls"
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
@@ -413,7 +413,7 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count297
 \l__pdf_internal_box=\box55
-) ("c:/Users\Usman IlamDin\Desktop\Report\uet_thesis.aux"
+) ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.aux"
 
 LaTeX Warning: Label `fig:1' multiply defined.
 
@@ -528,7 +528,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 63.
 LaTeX Info: Redefining \pageref on input line 63.
 LaTeX Info: Redefining \nameref on input line 63.
- ("c:/Users\Usman IlamDin\Desktop\Report\uet_thesis.out") ("c:/Users\Usman IlamDin\Desktop\Report\uet_thesis.out")
+ ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.out") ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.out")
 \@outlinefile=\write3
 \openout3 = `uet_thesis.out'.
 
@@ -559,7 +559,7 @@ Package pdftex.def Info: ./Figures/uet_logo.pdf  used on input line 83.
 -------------------------------------------
  Table of Contents
 -------------------------------------------
-("c:/Users\Usman IlamDin\Desktop\Report\uet_thesis.toc"
+("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.toc"
 LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -578,7 +578,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 -------------------------------------------
  List of Figures
 -------------------------------------------
-("c:/Users\Usman IlamDin\Desktop\Report\uet_thesis.lof" [4
+("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.lof" [4
 
 
 ])
@@ -1504,7 +1504,7 @@ Appendix A.
 -------------------------------------------
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
-("c:/Users\Usman IlamDin\Desktop\Report\uet_thesis.aux")
+("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
 Package rerunfilecheck Info: File `uet_thesis.out' has not changed.
@@ -1524,14 +1524,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 230.
 ### bottom level 
 Here is how much of TeX's memory you used:
  15881 strings out of 481225
- 237932 string characters out of 2902388
+ 238947 string characters out of 2902388
  701771 words of memory out of 3000000
  30511 multiletter control sequences out of 15000+200000
  546568 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,12n,51p,563b,2294s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,12n,51p,598b,2294s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Usman IlamDin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:/Users\Usman IlamDin\Desktop\Report\uet_thesis.pdf" (74 pages, 5556968 bytes).
+Output written on "c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.pdf" (74 pages, 5556971 bytes).
 PDF statistics:
  1584 PDF objects out of 1728 (max. 8388607)
  628 named destinations out of 1000 (max. 500000)
