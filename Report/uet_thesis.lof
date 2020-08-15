@@ -1,83 +1,42 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Outputs of Rectifier for firing agle zero\relax }}{2}{figure.caption.14}%
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Outputs of Inverters at Zero firing angle\relax }}{3}{figure.caption.16}%
-\contentsline {figure}{\numberline {1.3}{\ignorespaces MOSFET showing gate (G), body (B), source (S) and drain (D) terminals. The gate is separated from the body by an insulating layer (white)\relax }}{4}{figure.caption.18}%
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Hierarchy of inverter\relax }}{4}{figure.caption.20}%
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Generalized stepped waveform of multilevel inverters \relax }}{6}{figure.caption.23}%
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Unit H Bridge\relax }}{6}{figure.caption.25}%
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Classification of Modulation Techniques\relax }}{7}{figure.caption.28}%
-\contentsline {figure}{\numberline {1.8}{\ignorespaces LCLfilter Circuit\relax }}{9}{figure.caption.33}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Flowchart of Project Progress\relax }}{10}{figure.caption.36}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Block Diagram of Project Progress\relax }}{11}{figure.caption.38}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Outputs of Rectifier for firing agle zero\relax }}{3}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Outputs of Inverters at Zero firing angle\relax }}{4}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces MOSFET showing gate (G), body (B), source (S) and drain (D) terminals. The gate is separated from the body by an insulating layer (white)\relax }}{5}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Hierarchy of inverter\relax }}{5}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces 180 Conduction\relax }}{7}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Unit H Bridge\relax }}{7}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Classification of Modulation Techniques\relax }}{8}{figure.caption.36}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces LCLfilter Circuit\relax }}{10}{figure.caption.41}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces H Bridge circuit for 9 Levels Voltage wave-forms\relax }}{14}{figure.caption.54}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Switching States for 9 Levels Voltage wave-forms\relax }}{14}{figure.caption.55}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Graphical Representation of Switching Sequence with Minimum Transitions\relax }}{15}{figure.caption.56}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces 9-Levels Voltage waveform when E=12 V\relax }}{16}{figure.caption.60}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces 9-Levels Voltage Magnitude Spectrum\relax }}{16}{figure.caption.61}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Better Approximated 9 levels Voltage waveform\relax }}{18}{figure.caption.62}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Improved Fourier Spectrum\relax }}{18}{figure.caption.63}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Controlled Rectifier Block\relax }}{12}{figure.caption.45}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Controlled Pulse Block\relax }}{12}{figure.caption.46}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Inverter Block\relax }}{13}{figure.caption.49}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Controlled Pulse Block\relax }}{14}{figure.caption.50}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Simulink Diagram\relax }}{14}{figure.caption.52}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces LCL filter\relax }}{15}{figure.caption.53}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Circuit for 9 Levels Voltage wave-forms\relax }}{20}{figure.caption.65}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Circuit for Constant DC supply\relax }}{21}{figure.caption.67}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Circuit for TLP250\relax }}{22}{figure.caption.70}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Inner circuit for TLP250\relax }}{22}{figure.caption.71}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces H-Bridge 1 With DC Source = E volts\relax }}{23}{figure.caption.73}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces H-Bridge 2 With DC Source = 3E volts\relax }}{23}{figure.caption.74}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces H-Bridge 1 With Gate Driver Circuit\relax }}{24}{figure.caption.75}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces H-Bridge 2 With Gate Driver Circuit\relax }}{24}{figure.caption.76}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Gate Signals to H-Bridge 1\relax }}{25}{figure.caption.79}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Gate Signals to H-Bridge 2\relax }}{26}{figure.caption.80}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Source Currents (Resistive Load)\relax }}{26}{figure.caption.82}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Source Currents (Inductive Load 0.8PF)\relax }}{27}{figure.caption.83}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Switch Currents of H-Bridge 1 (Resistive Load)\relax }}{27}{figure.caption.85}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Switch Currents of H-Bridge 2 (Resistive Load)\relax }}{28}{figure.caption.86}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Switch Currents of H-Bridge 1 (Inductive Load 0.8PF)\relax }}{28}{figure.caption.87}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Switch Currents of H-Bridge 2 (Inductive Load 0.8PF)\relax }}{29}{figure.caption.88}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Load Current (Resistive Load)\relax }}{29}{figure.caption.90}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Load Current (Inductive Load 0.8PF)\relax }}{30}{figure.caption.91}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Load Voltage and Scaled Current (Inductive Load 0.8PF)\relax }}{30}{figure.caption.92}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Output Voltage\relax }}{31}{figure.caption.94}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Output Voltage FFT Analysis\relax }}{31}{figure.caption.95}%
-\contentsline {figure}{\numberline {5.14}{\ignorespaces Record of First 10 Harmonics\relax }}{32}{figure.caption.96}%
-\contentsline {figure}{\numberline {5.15}{\ignorespaces Output Signal Generated by PWM Technique\relax }}{32}{figure.caption.98}%
-\contentsline {figure}{\numberline {5.16}{\ignorespaces FFT of Output Signal Generated by PWM Technique\relax }}{33}{figure.caption.99}%
-\contentsline {figure}{\numberline {5.17}{\ignorespaces Output Signal Generated by Sine PWM Technique\relax }}{33}{figure.caption.101}%
-\contentsline {figure}{\numberline {5.18}{\ignorespaces FFT of Output Signal Generated by Sine PWM Technique\relax }}{34}{figure.caption.102}%
-\contentsline {figure}{\numberline {5.19}{\ignorespaces Output Signal after AND Operation\relax }}{34}{figure.caption.104}%
-\contentsline {figure}{\numberline {5.20}{\ignorespaces FFT of Output Signal after AND Operation\relax }}{35}{figure.caption.105}%
-\contentsline {figure}{\numberline {5.21}{\ignorespaces Output Signal after AND Operation\relax }}{35}{figure.caption.107}%
-\contentsline {figure}{\numberline {5.22}{\ignorespaces FFT of Output Signal after AND Operation\relax }}{36}{figure.caption.108}%
-\contentsline {figure}{\numberline {5.23}{\ignorespaces Output Signal (SHE PWM)\relax }}{37}{figure.caption.114}%
-\contentsline {figure}{\numberline {5.24}{\ignorespaces FFT of Output Signal (SHE PWM)\relax }}{38}{figure.caption.115}%
-\contentsline {figure}{\numberline {5.25}{\ignorespaces FFT Record Output Signal (SHE PWM)\relax }}{38}{figure.caption.116}%
-\contentsline {figure}{\numberline {5.26}{\ignorespaces Relation between Duty Cycle of PWM and Vrms\relax }}{39}{figure.caption.118}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Output Voltage at 50Hz\relax }}{40}{figure.caption.121}%
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Output Voltage with all Load Parameters\relax }}{41}{figure.caption.122}%
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Verification of $\alpha 1 = 6^o$\relax }}{42}{figure.caption.130}%
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Verification of $\alpha 2 = 22^o$\relax }}{43}{figure.caption.137}%
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Verification of $\alpha 3 = 38^o$\relax }}{44}{figure.caption.144}%
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Verification of $\alpha 4 = 60^o$\relax }}{45}{figure.caption.151}%
-\contentsline {figure}{\numberline {6.7}{\ignorespaces AND Operation with 10KHz PWM\relax }}{45}{figure.caption.153}%
-\contentsline {figure}{\numberline {6.8}{\ignorespaces PWM Operation at 10KHz\relax }}{46}{figure.caption.155}%
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Frequency = 200Hz\relax }}{46}{figure.caption.157}%
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Duty Cycle = 100\%\relax }}{47}{figure.caption.159}%
-\contentsline {figure}{\numberline {6.11}{\ignorespaces Duty Cycle = 90\%\relax }}{47}{figure.caption.160}%
-\contentsline {figure}{\numberline {6.12}{\ignorespaces Duty Cycle = 80\%\relax }}{48}{figure.caption.161}%
-\contentsline {figure}{\numberline {6.13}{\ignorespaces Duty Cycle = 70\%\relax }}{48}{figure.caption.162}%
-\contentsline {figure}{\numberline {6.14}{\ignorespaces Duty Cycle = 60\%\relax }}{49}{figure.caption.163}%
-\contentsline {figure}{\numberline {6.15}{\ignorespaces Duty Cycle = 50\%\relax }}{49}{figure.caption.164}%
-\contentsline {figure}{\numberline {6.16}{\ignorespaces Duty Cycle = 40\%\relax }}{50}{figure.caption.165}%
-\contentsline {figure}{\numberline {6.17}{\ignorespaces Duty Cycle = 30\%\relax }}{50}{figure.caption.166}%
-\contentsline {figure}{\numberline {6.18}{\ignorespaces Duty Cycle = 20\%\relax }}{51}{figure.caption.167}%
-\contentsline {figure}{\numberline {6.19}{\ignorespaces Duty Cycle = 10\%\relax }}{51}{figure.caption.168}%
-\contentsline {figure}{\numberline {6.20}{\ignorespaces Duty Cycle = 5\%\relax }}{52}{figure.caption.169}%
-\contentsline {figure}{\numberline {6.21}{\ignorespaces Duty Cycle = 2\%\relax }}{52}{figure.caption.170}%
-\contentsline {figure}{\numberline {6.22}{\ignorespaces Duty Cycle = 1\%\relax }}{53}{figure.caption.171}%
-\contentsline {figure}{\numberline {6.23}{\ignorespaces Duty Cycle = 0\%\relax }}{53}{figure.caption.172}%
-\contentsline {figure}{\numberline {6.24}{\ignorespaces Relation Between Duty Cycle and V$_{rms}$\relax }}{54}{figure.caption.175}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Output Volatge at 5KHz\relax }}{20}{figure.caption.91}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Output Volatge at 7KHz\relax }}{21}{figure.caption.92}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Output Volatge at 10KHz\relax }}{21}{figure.caption.93}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Output Volatge at 13KHz\relax }}{22}{figure.caption.94}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Output Volatge at 15KHz\relax }}{22}{figure.caption.95}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Output Volatge at 20KHz\relax }}{23}{figure.caption.96}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Output Volatge at 50\% rated\relax }}{24}{figure.caption.98}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Output Volatge at 100\% rated\relax }}{24}{figure.caption.99}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Output Volatge at 150\% rated\relax }}{25}{figure.caption.100}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Output Volatge at 170\% rated\relax }}{26}{figure.caption.101}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Output Volatge at 50\% rated\relax }}{26}{figure.caption.102}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces ModulationIndex and Output Volatge\relax }}{27}{figure.caption.104}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Output Volatge Waveform at 25Hz\relax }}{28}{figure.caption.106}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Output Volatge Waveform at 50Hz\relax }}{29}{figure.caption.107}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Output Volatge Waveform at 100Hz\relax }}{30}{figure.caption.108}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Graph between ref. frequency and volatge\relax }}{30}{figure.caption.110}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Graph between ref. frequency and output frequency\relax }}{31}{figure.caption.111}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Output volatage =313 and f = 25Hz\relax }}{31}{figure.caption.113}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Output volatage =525 and f = 45Hz\relax }}{32}{figure.caption.114}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Output volatage =132 and f = 70Hz\relax }}{32}{figure.caption.115}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces trend for fixedV/f ration\relax }}{33}{figure.caption.117}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

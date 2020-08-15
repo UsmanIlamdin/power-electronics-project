@@ -18,6 +18,57 @@
 \usepackage{listings}
 \usepackage{color}
 
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usetikzlibrary{positioning,arrows,calc}
+\tikzset{block/.style = {rectangle, draw, fill=white,
+text width=4em, text centered, rounded corners, minimum height=6em},
+line/.style = {draw, -latex'},
+io/.style={draw, circle,inner sep=0pt,minimum size=4pt}
+}
+
+%
+\tikzset{mysine/.pic={
+\begin{axis}[ axis x line=center, ticks=none,
+             axis y line=left, enlargelimits=upper]
+% draw sine functions
+\addplot [dashed,thin,domain=-pi:6*pi,smooth]{-2*sin(deg(0.5*x))};
+\end{axis}
+}, 
+reti/.pic={
+\begin{axis}[ axis x line=center, ymin=0,ticks=none,
+             axis y line=left, enlargelimits=upper]
+% draw sine functions
+\addplot [dashed,thin,domain=-pi:6*pi,smooth]{-2*sin(deg(0.5*x))};
+\addplot [dashed,thin,domain=-pi:6*pi,smooth]{ 2*sin(deg(0.5*x))};
+\end{axis}
+}, 
+filted/.pic={
+\def\arch{1.7*pi/3} 
+\begin{axis}[xmin=-3,xmax=11,
+             ymin=0,ticks=none ,
+             axis x line=center, 
+             axis y line=left, enlargelimits=upper]
+\foreach \i/\j/\k in {-1/0/1,1/2/3,3/4/5,5/6/7}{
+\addplot [thick,domain=\i*pi:{\j*pi+\arch}, ] {2*e^(-0.05*(x-\i*pi)};  % exponentially decay curves, not a line
+\addplot [thick,domain={\j*pi+\arch}:\k*pi, smooth]{ 2*sin(deg(0.5*x))};
+\addplot [thick,domain={\j*pi+\arch}:\k*pi, smooth]{-2*sin(deg(0.5*x))};
+}
+\end{axis}
+},
+dc/.pic={
+%\draw (0,2) -- (4,2);
+\begin{axis}[xmin=0,xmax=11,ymin=0,
+             axis x line=center, ticks=none,
+             axis y line=left, enlargelimits=upper]
+\addplot [thick,domain=0:11] {2};  %  a line
+\end{axis}
+},
+}
+
+\usepackage{circuitikz}
+\usetikzlibrary{calc}
+
 \definecolor{dkgreen}{rgb}{0,0.6,0}
 \definecolor{gray}{rgb}{0.5,0.5,0.5}
 \definecolor{mauve}{rgb}{0.58,0,0.82}
@@ -168,15 +219,18 @@ Date:~~~~ \rule[0em]{10em}{1.0pt}  % This prints a line to write the date
 \abstract{
 \addtocontents{toc}{\vspace{1em}}  % Add a gap in the Contents, for aesthetics
 
-Cascaded H-Bridge Multilevel Inverters 
-can generate high quality voltage waveforms close to sinusoidal.CHB Multilevel inverter that is constituted using dual H-bridge cells
-with MOSFETs on each phase legs. The output waveform is increased up to 9-level by using 2 separate DC sources defined at Vdc:3Vdc ratio to obtain an asymmetrical output. The cascaded multilevel inverter is switched by the proposed SPWM
-modulator. The harmonic analysis of proposed inverter has been
-performed under several working conditions such as various
-switching frequencies and modulation indexes. The detailed
-comparisons are performed to determine the best working
-conditions of voltage source inverters (VSI) and presented in this
-report.\ldots
+This project covers the basic blocks of power electronics i.e rectifier and 
+inverter. The input is three phase 400V line-line voltage which is passed 
+through the three phase controlled rectifier. The firing angles are .
+The gate pulses are adjusted such that no two thyristors in a column  
+are turned on at the same time because it will cause short circuit among 
+the phases. The ouput voltage of rectifier is 400Vdc. It is fed into the 
+three phase inverter. The inverter used in this case is sinousidal 
+pulse-width-modulation inverter. The three gate pulses are generated 
+by comparison of three sine voltages displaced by 120 degree with the 
+saw-tooth reference waveform. The output is three phase distorted sine 
+waveform it then passed through the LCL filter whose output is pure sine waveform.
+\ldots
 
 %}
 \clearpage  % Abstract ended, start a new page
@@ -187,29 +241,25 @@ report.\ldots
 \onehalfspacing
 % Include the chapters of the thesis, as separate files
 % Just uncomment the lines as you write the chapters
-
 \input{./Chapters/Chapter1} % Introduction 
 
-\input{./Chapters/Chapter2} % What to Write 
+\input{./Chapters/Chapter2} % Literature Review 
 
-\input{./Chapters/Chapter3} % Experimental Setup
+\input{./Chapters/Chapter3} % What to Write 
+
+\input{./Chapters/Chapter4} % Experimental Setup
  
-\input{./Chapters/Chapter4} % Experiment 1
+\input{./Chapters/Chapter5} % Experiment 1
 
-\input{./Chapters/Chapter5} % Experiment 2
+\input{./Chapters/Chapter6} % Experiment 2
 
-\input{./Chapters/Chapter6} % Results and Discussion
-
-\input{./Chapters/Chapter7} % Conclusion
+\input{./Chapters/Chapter7}
 
 %% ----------------------------------------------------------------
 % Now begin the Appendices, including them as separate files
 
 \addtocontents{toc}{\vspace{2em}} % Add a gap in the Contents, for aesthetics
 
-\appendix % Cue to tell LaTeX that the following 'chapters' are Appendices
-
-\input{./Chapters/AppendixA}	% Appendix Title
 
 %\input{./Chapters/AppendixB} % Appendix Title
 
@@ -217,6 +267,7 @@ report.\ldots
 
 \addtocontents{toc}{\vspace{2em}}  % Add a gap in the Contents, for aesthetics
 \backmatter
+
 
 %% ----------------------------------------------------------------
 %\label{References}

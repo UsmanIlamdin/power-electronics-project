@@ -1,94 +1,137 @@
 % Chapter 1
 
-\chapter{Detailed Circuit Design} % Write in your own chapter title
-\label{Chapter4}
-\lhead{Chapter 4. \emph{Detailed Circuit Design}} % Write in your own chapter title to set the page header
-The complete circuit diagram of the circuit is shown\ref{fig:1}. 
-\begin{figure}[htbp]
-	
-		\includegraphics[width = 6in]{./Figures/Photos/circuit.pdf}
-		\rule{35em}{2pt}
-	\caption{Circuit for 9 Levels Voltage wave-forms}
-	\label{fig:1}
-\end{figure}
-\newpage
-The circuit\ref{fig:1} is divided into 4 main portions as:
-\begin{itemize}
-\item DC Supplies.
-\item STM32F4x Micro-controller to apply switching.
-\item Gate Triggering Circuit using Opto-coupler TLP250.
-\item 2 Cascaded H-Bride Inverter.
-\end{itemize}
-\section{DC Supplies}
-In this circuit total 8 DC supplies are used to power the circuit,6(Isolated) out of them have 15 Volts output to power the TLP 250 present in Gate triggering circuit.and the other two having outputs ratio of 1:3 vollts are used to get 9 levels output voltage waveform.Gate Drivers for ground connected Mosfets have given same supply.
-\begin{figure}[htbp]
-	\centering
-		\includegraphics[width = 5in]{./Figures/ss.pdf}
-		\rule{35em}{5pt}
-	\caption{Circuit for Constant DC supply}
-	\label{fig:2}
-\end{figure}
-\section{STM32F4x Microntroller}
-It is a 32-bit ARM Cortex -M4 with FPU core,1-Mbyte Flash memory and 192-Kbyte RAM.
-It has 6 GPIO ports and 82 I/O pins with operating voltage of 1.62-3.6v and current
-rating upto 25mA. It includes 4 user LEDs and 1 user switch. The board can be power
-up through USB, and it can supply 3v and 5v as external power supply.\\
-This is used in this project to generate pulses at frequency of 50Hz as input of TLP250.
-\section{Gate triggering circuit}	
-TLP250 is 8 pin opto-coupler ic used for isolation and safety for Microcontroller also used as gate driver of switching device beause of it opto coupling ability and ability to give discharging path.
-\begin{figure}[htbp]
-	\centering
-		\includegraphics[width = 5in]{./Figures/Gate_driver.JPG}
-		\rule{35em}{1pt}
-	\caption{Circuit for TLP250}
-	\label{fig:3}
-\end{figure}
 
-\begin{figure}[htbp]
-	\centering
-		\includegraphics[width = 1.5in]{./Figures/tlp250.pdf}
-		\rule{35em}{1pt}
-	\caption{Inner circuit for TLP250}
-	\label{fig:4}
-\end{figure}
-As seen from the figure\ref{fig:4} LED is connected with 2nd and 3rd pin and two BJTs are connected in series, top one to give output as $V_E$ and lower one to give discharging path.$R_in and R =1kohm $ while $R_G=10ohm$.Capacitor is of 1nF connected from pin 8 to pin 5 to stabilize the operation of the high gain linear amplifier. Failure to provide the bypassing may impair the switching property.
-The pins of TLP 250 are labelled as:
+\chapter{Circuit Design and Analysis} % Write in your own chapter title
+\label{Chapter3}
+\lhead {Chapter 3. \emph{Circuit Design and Analysis}}
+\section{Terminologies}
+The average value of output load voltage is $V_{dc}$.
+The average value of output load current is $I_{dc}$.
+Thus, the output dc power:
+$$P_{dc}=V_{dc}I_{dc}$$ 
+The rms value of output load voltage is $V_{rms}$.
+The rms value of output load current is $I_{rms}$.
+Thus, the output ac power[3]:
+\begin{equation}
+P_{rms}=V_{rms}I_{rms}
+\end{equation}
+The efficiency of system is defined as
+\begin{equation}
+ \eta=\frac{P_{out}}{P_{in}}
+\end{equation}
+The effective rms(ac component) of output voltage can be calculated as:
+\begin{equation}
+V_{ac}=\sqrt[2]{V_{rms}^2-V_{dc}^2}
+\end{equation}
+The Form factor FF, describes the shape of output voltage as:
+\begin{equation}
+FF=\frac{V_{rms}}{V_{dc}}
+\end{equation}
+The Ripple factor RF,measures the ripple content of output voltage as:
+\begin{equation}
+RF=\frac{V_{ac}}{V_{dc}}
+\end{equation}
+Also,\\
+\begin{equation}
+RF=\sqrt[2]{FF^2-1}
+\end{equation}
+Next term is TUF (Transformer Utilization Factor) is defined as:
+\begin{equation}
+TUF=\frac{P_{dc}}{V_sI_s}
+\end{equation}
+where $V_s$ and $I_s$ are rms values of source voltage and current respectively.\\
+The Displacement Factor DF is defined as;
+\begin{equation}
+DF=cos\phi
+\end{equation}
+where $\phi$ is the angle between fundamental component of input current and input voltage.This $\phi$ is known as Displacement angle.\\
+The Harmonic factor HF of input current is defined as:
+\begin{equation}
+HF=\sqrt{(\frac{I_s}{I_{s1}})^2-1}
+\end{equation}
+where $I_{s1}$ is the fundamental component of input current $I_s$. Both are expressed in RMS.\\
+The input Power factor PF is defined as:
+\begin{equation}
+PF=\frac{I_{s1}cos\phi}{I_s}
+\end{equation}
+Crest Factor CF which is of interest to specify the peak current ratings of devices and components is defined as:
+ \begin{equation}
+CF=\frac{I_{speak}}{I_s}
+\end{equation}
+where $I_{speak}$ is peak input current.\\
+ Last one is THD Total Harmonic Distortion is measure harmonic distortion present in a signal and is defined as\\
+ ``Ratio of sum of powers of all harmonic components to power of fundamental frequency.''
+\begin{equation}
+THD=\frac{\sqrt{\sum_{i=2}^{n}V_i^2}}{V_1}
+\end{equation}
+\section{Design}
+\subsection{Rectifier}
+The 3-phase half wave converter combines three single phase half wave controlled rectifiers in one single circuit feeding a common load. The thyristor S1 in series with one of the supply phase windings ‘a-n’ acts as one half wave controlled rectifier. The second thyristor S2 in series with the supply phase winding ‘b-n’ acts as the second half wave controlled rectifier. The third thyristor S3 in series with the supply phase winding acts as the third half wave controlled rectifier. Figure bellow shows three phase fully controlled rectifier.
 \begin{itemize}
-\item PIN: 2 = ANODE
-\item PIN: 3 = CATHODE
-\item PIN: 5 = V-/GROUND
-\item PIN: 6 and 7=OUTPUT
-\item PIN: 8 = V+/INPUT(15V)
-\item PIN: 1 and 4 = NC
+\item When thyristor S2 is triggered at 
+ \begin{equation}
+	w t =\frac{5 \pi }{6 \alpha}
+	\end{equation}
+  S1 becomes reverse biased and turns-off. The load current flows through the thyristor and through the supply phase winding ‘b-n’. When S2 conducts the phase voltage vbnappears across the load until the thyristor S3 is triggered.	
+\item The 3-phase input supply is applied through the star connected supply transformer as shown in the figure. The common neutral point of the supply is connected to one end of the load while the other end of the load connected to the common cathode point.
+\item When the thyristor S1 is triggered at 
+\begin{equation}
+	w t =\frac{\pi }{6} +\alpha = 30^o + \alpha
+	\end{equation} 
+	 the phase voltage Van appears across the load when S1 conducts. The load current flows through the supply phase winding ‘a-n’ and through thyristor S1 as long as S1 conducts.
+\item When the thyristor S3 is triggered at 
+\begin{equation}
+	w t =\frac{3\pi }{2} +\alpha = 270^o + \alpha
+	\end{equation}
+S2 is reversed biased and hence S2 turns-off. The phase voltage Van appears across the load when S3 conducts.
+\item When S1 is triggered again at the beginning of the next input cycle the thyristor S3 turns off as it is reverse biased naturally as soon as S1 is triggered. The figure shows the 3-phase input supply voltages, the output voltage which appears across the load, and the load current assuming a constant and ripple free load current for a highly inductive load and the current through the thyristor T1.
+\item For a purely resistive load where the load inductance 'L = 0' and the trigger angle 
+\begin{equation}
+	\alpha >\frac{\pi }{6} 
+	\end{equation}
+ the load current appears as discontinuous load current and each thyristor is naturally commutated when the polarity of the corresponding phase supply voltage reverses. The frequency of output ripple frequency for a 3-phase half wave converter is fs, where fs is the input supply frequency.The 3-phase half wave converter is not normally used in practical converter systems because of the disadvantage that the supply current waveforms contain dc components.
 \end{itemize}
-\section{H-Bridge Circuits}
-There are two H-Bridge circuits used in this project[5]. By adding two H-Bridges in series so that the upper H-Bridge has DC Source = E volts and lower H-Bridge has DC Source = 3E volts, and by applying a specific switching sequence to all  switches we can obtain 9 levels in output waveform. Below the figures of all the parts are shown.
 
-\begin{figure}[htbp]
-	\centering
-	\includegraphics[width = 3.8in]{./Figures/HBridge1.JPG}
-	\rule{35em}{1pt}
-	\caption{H-Bridge 1 With DC Source = E volts}
-	\label{fig:4}
-\end{figure}
-\begin{figure}[htbp]
-	\centering
-	\includegraphics[width = 3.8in]{./Figures/HBridge2.JPG}
-	\rule{35em}{1pt}
-	\caption{H-Bridge 2 With DC Source = 3E volts}
-	\label{fig:4}
-\end{figure}
-\begin{figure}[htbp]
-	\centering
-	\includegraphics[width = 6in]{./Figures/C_1.JPG}
-	\rule{35em}{1pt}
-	\caption{H-Bridge 1 With Gate Driver Circuit}
-	\label{fig:4}
-\end{figure}
-\begin{figure}[htbp]
-	\centering
-	\includegraphics[width = 6in]{./Figures/C_2.JPG}
-	\rule{35em}{1pt}
-	\caption{H-Bridge 2 With Gate Driver Circuit}
-	\label{fig:4}
-\end{figure}
+\subsection{Inverter}
+\begin{equation}
+	V{L} = 0.4724 V_{s} 
+\end{equation}
+\begin{equation}
+	V_{L}= 0.8265 V_{s}
+\end{equation}
+and final noted that
+\begin{equation}
+	\frac{V_{L}}{V_{P}} = \sqrt{3}
+\end{equation}
+\subsection{LCL filter}
+For  
+\begin{equation}
+	f_{sw} =50Hz , f_{res} =5Hz , S = 25KW , V_{0} = 400V
+	\end{equation}
+\begin{equation}
+	Reactive Power = 5 \% rated power
+\end{equation}
+\begin{equation}
+	Q = 0.05 \frac{25000}{3}
+\end{equation}
+\begin{equation}
+	Q =V^2 2 \pi f C
+\end{equation}
+\begin{equation}
+	C = \frac{Q}{2 \pi f v^2}
+\end{equation}
+\begin{equation}
+	C = 8.29 \mu F
+\end{equation}
+\begin{equation}
+	L = 0.1 \mu H
+\end{equation}
+\begin{equation}
+	V_{i} = 360 V
+\end{equation}
+\begin{equation}
+	I = 20.8Amp
+\end{equation}
+\begin{equation}
+	I_{g} = 0.0625 Amp
+\end{equation}

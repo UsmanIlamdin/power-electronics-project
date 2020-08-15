@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.15)  15 AUG 2020 10:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.15)  15 AUG 2020 22:54
 entering extended mode
 **"c:/Users/Usman IlamDin/Documents/GitHub/power-electronics-project/Report/uet_thesis.tex"
 ("c:/Users/Usman IlamDin/Documents/GitHub/power-electronics-project/Report/uet_thesis.tex"
@@ -392,27 +392,323 @@ Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen184
+\pgfutil@tempdimb=\dimen185
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex")) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box54
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks36
+))
+\pgf@x=\dimen186
+\pgf@y=\dimen187
+\pgf@xa=\dimen188
+\pgf@ya=\dimen189
+\pgf@xb=\dimen190
+\pgf@yb=\dimen191
+\pgf@xc=\dimen192
+\pgf@yc=\dimen193
+\pgf@xd=\dimen194
+\pgf@yd=\dimen195
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count297
+\c@pgf@countb=\count298
+\c@pgf@countc=\count299
+\c@pgf@countd=\count300
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count301
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+))) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count302
+\pgfsyssoftpath@bigbuffer@items=\count303
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen196
+\pgfmath@count=\count304
+\pgfmath@box=\box55
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex"))) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count305
+)) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen197
+\pgf@picmaxx=\dimen198
+\pgf@picminy=\dimen199
+\pgf@picmaxy=\dimen256
+\pgf@pathminx=\dimen257
+\pgf@pathmaxx=\dimen258
+\pgf@pathminy=\dimen259
+\pgf@pathmaxy=\dimen260
+\pgf@xx=\dimen261
+\pgf@xy=\dimen262
+\pgf@yx=\dimen263
+\pgf@yy=\dimen264
+\pgf@zx=\dimen265
+\pgf@zy=\dimen266
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen267
+\pgf@path@lasty=\dimen268
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen269
+\pgf@shorten@start@additional=\dimen270
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count306
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen271
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen272
+\pgf@pt@y=\dimen273
+\pgf@pt@temp=\dimen274
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen275
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen276
+\pgf@sys@shading@range@num=\count307
+\pgf@shadingcount=\count308
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box59
+)) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box60
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen277
+\pgf@nodesepend=\dimen278
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex")) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"))
+("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen279
+\pgffor@skip=\dimen280
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+)) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count309
+\pgfplotmarksize=\dimen281
+)
+\tikz@lastx=\dimen282
+\tikz@lasty=\dimen283
+\tikz@lastxsaved=\dimen284
+\tikz@lastysaved=\dimen285
+\tikz@lastmovetox=\dimen286
+\tikz@lastmovetoy=\dimen287
+\tikzleveldistance=\dimen288
+\tikzsiblingdistance=\dimen289
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
+)
+\tikz@expandcount=\count317
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex")
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex"
+\t@pgfplots@toka=\toks45
+\t@pgfplots@tokb=\toks46
+\t@pgfplots@tokc=\toks47
+\pgfplots@tmpa=\dimen290
+\c@pgfplots@coordindex=\count318
+\c@pgfplots@scanlineindex=\count319
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex")) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex")) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex"
+\c@pgfplotsarray@tmp=\count320
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex"
+\c@pgfplotstable@counta=\count321
+\t@pgfplotstable@a=\toks48
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex")) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex"
+\c@pgfplotslibrarysurf@no=\count322
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def"))) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex")) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex"))) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex"
+\pgfdecoratedcompleteddistance=\dimen291
+\pgfdecoratedremainingdistance=\dimen292
+\pgfdecoratedinputsegmentcompleteddistance=\dimen293
+\pgfdecoratedinputsegmentremainingdistance=\dimen294
+\pgf@decorate@distancetomove=\dimen295
+\pgf@decorate@repeatstate=\count323
+\pgfdecorationsegmentamplitude=\dimen296
+\pgfdecorationsegmentlength=\dimen297
+)
+\tikz@lib@dec@box=\box65
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex")) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex" ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex"))
+\pgfplots@numplots=\count324
+\pgfplots@xmin@reg=\dimen298
+\pgfplots@xmax@reg=\dimen299
+\pgfplots@ymin@reg=\dimen300
+\pgfplots@ymax@reg=\dimen301
+\pgfplots@zmin@reg=\dimen302
+\pgfplots@zmax@reg=\dimen303
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex"
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex"
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\arrowsize=\dimen304
+)) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.sty"
+Package: circuitikz 2020/08/07{} The CircuiTikz circuit drawing package version 1.2.3
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex"
+File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowinset=\dimen305
+\pgfarrowlength=\dimen306
+\pgfarrowwidth=\dimen307
+\pgfarrowlinewidth=\dimen308
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybending.code.tex"
+File: tikzlibrarybending.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulebending.code.tex"
+File: pgfmodulebending.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulenonlineartransformations.code.tex"
+File: pgfmodulenonlineartransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgftransformnonlinearflatness=\dimen309
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrarycurvilinear.code.tex"
+File: pgflibrarycurvilinear.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@curvilinear@time@a=\dimen310
+\pgf@curvilinear@length@a=\dimen311
+\pgf@curvilinear@length@b=\dimen312
+\pgf@curvilinear@length@c=\dimen313
+\pgf@curvilinear@length@d=\dimen314
+)
+\pgf@arrows@the@rigidity=\dimen315
+)) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfpu.code.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.defines.tex"
+\pgf@circ@count@a=\count325
+\pgf@circ@count@b=\count326
+\pgf@circ@count@c=\count327
+\pgf@circ@res@up=\dimen316
+\pgf@circ@res@down=\dimen317
+\pgf@circ@res@zero=\dimen318
+\pgf@circ@res@left=\dimen319
+\pgf@circ@res@right=\dimen320
+\pgf@circ@res@other=\dimen321
+\pgf@circ@res@step=\dimen322
+\pgf@circ@res@temp=\dimen323
+\pgf@circ@Rlen=\dimen324
+\pgf@circ@scaled@Rlen=\dimen325
+\pgfstartlinewidth=\dimen326
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircutils.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircshapes.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmonopoles.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbipoles.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctripoles.tex"
+\pgf@circ@res@count=\count328
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircquadpoles.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmultipoles.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclabel.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvoltage.tex"
+\pgfcirc@labelshift=\dimen327
+) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccurrent.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflow.tex") ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpath.tex")
+
+Package circuitikz Warning: You did not specify one of the voltage directions:
+(circuitikz)                  oldvoltagedirection, nooldvoltagedirection, 
+(circuitikz)                  RPvoltages or EFvoltages 
+(circuitikz)                Default directions may have changed, 
+(circuitikz)                please check the manual.
+
 ) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty"
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 48.
+Package hyperref Info: Option `colorlinks' set `true' on input line 99.
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box54
+\ttl@box=\box66
 \beforetitleunit=\skip82
 \aftertitleunit=\skip83
-\ttl@plus=\dimen184
-\ttl@minus=\dimen185
-\ttl@toksa=\toks33
-\titlewidth=\dimen186
-\titlewidthlast=\dimen187
-\titlewidthfirst=\dimen188
+\ttl@plus=\dimen328
+\ttl@minus=\dimen329
+\ttl@toksa=\toks49
+\titlewidth=\dimen330
+\titlewidthlast=\dimen331
+\titlewidthfirst=\dimen332
 ) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count297
-\l__pdf_internal_box=\box55
+\l__kernel_color_stack_int=\count329
+\l__pdf_internal_box=\box67
 ) ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.aux"
 
 LaTeX Warning: Label `fig:1' multiply defined.
@@ -421,49 +717,7 @@ LaTeX Warning: Label `fig:1' multiply defined.
 LaTeX Warning: Label `fig:1' multiply defined.
 
 
-LaTeX Warning: Label `fig:1' multiply defined.
-
-
-LaTeX Warning: Label `fig:2' multiply defined.
-
-
-LaTeX Warning: Label `fig:1' multiply defined.
-
-
-LaTeX Warning: Label `fig:2' multiply defined.
-
-
-LaTeX Warning: Label `fig:3' multiply defined.
-
-
-LaTeX Warning: Label `fig:4' multiply defined.
-
-
-LaTeX Warning: Label `fig:5' multiply defined.
-
-
-LaTeX Warning: Label `fig:1' multiply defined.
-
-
-LaTeX Warning: Label `fig:2' multiply defined.
-
-
-LaTeX Warning: Label `fig:3' multiply defined.
-
-
-LaTeX Warning: Label `fig:4' multiply defined.
-
-
-LaTeX Warning: Label `fig:4' multiply defined.
-
-
-LaTeX Warning: Label `fig:4' multiply defined.
-
-
-LaTeX Warning: Label `fig:4' multiply defined.
-
-
-LaTeX Warning: Label `fig:4' multiply defined.
+LaTeX Warning: Label `Chapter5' multiply defined.
 
 
 LaTeX Warning: Label `Chapter5' multiply defined.
@@ -471,24 +725,24 @@ LaTeX Warning: Label `Chapter5' multiply defined.
 )
 \openout1 = `uet_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -501,24 +755,24 @@ Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count298
-\scratchdimen=\dimen189
-\scratchbox=\box56
-\nofMPsegments=\count299
-\nofMParguments=\count300
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count301
-\MPscratchDim=\dimen190
-\MPnumerator=\count302
-\makeMPintoPDFobject=\count303
-\everyMPtoPDFconversion=\toks35
+\scratchcounter=\count330
+\scratchdimen=\dimen333
+\scratchbox=\box68
+\nofMPsegments=\count331
+\nofMParguments=\count332
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count333
+\MPscratchDim=\dimen334
+\MPnumerator=\count334
+\makeMPintoPDFobject=\count335
+\everyMPtoPDFconversion=\toks51
 ) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
-\c@lstlisting=\count304
-\AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring ON on input line 62.
+\c@lstlisting=\count336
+\AtBeginShipoutBox=\box69
+Package hyperref Info: Link coloring ON on input line 113.
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty"
@@ -526,27 +780,31 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count305
+\c@section@level=\count337
 )
-LaTeX Info: Redefining \ref on input line 62.
-LaTeX Info: Redefining \pageref on input line 62.
-LaTeX Info: Redefining \nameref on input line 62.
+LaTeX Info: Redefining \ref on input line 113.
+LaTeX Info: Redefining \pageref on input line 113.
+LaTeX Info: Redefining \nameref on input line 113.
  ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.out") ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.out")
-\@outlinefile=\write3
-\openout3 = `uet_thesis.out'.
+\@outlinefile=\write4
+\openout4 = `uet_thesis.out'.
 
+ ABD: EveryShipout initializing macros
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into your preamble.
+ on input line 113.
 
 -------------------------------------------
  Title Page
 -------------------------------------------
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\kernel@ifnextchar' on input line 82.
+(hyperref)                removing `\kernel@ifnextchar' on input line 133.
 
-<./Figures/uet_logo.pdf, id=263, 150.5625pt x 150.5625pt>
+<./Figures/uet_logo.pdf, id=178, 150.5625pt x 150.5625pt>
 File: ./Figures/uet_logo.pdf Graphic file (type pdf)
 <use ./Figures/uet_logo.pdf>
-Package pdftex.def Info: ./Figures/uet_logo.pdf  used on input line 82.
+Package pdftex.def Info: ./Figures/uet_logo.pdf  used on input line 133.
 (pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
 [1
 
@@ -574,937 +832,463 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ])
-\tf@toc=\write4
-\openout4 = `uet_thesis.toc'.
+\tf@toc=\write5
+\openout5 = `uet_thesis.toc'.
 
  [3]
 -------------------------------------------
  List of Figures
 -------------------------------------------
-("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.lof" [4
+("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.lof")
+\tf@lof=\write6
+\openout6 = `uet_thesis.lof'.
+
+ [4
 
 
-])
-\tf@lof=\write5
-\openout5 = `uet_thesis.lof'.
-
- [5]
+]
 -------------------------------------------
  Abstract Page
 -------------------------------------------
-[6
+[5
 
 
 ] (Chapters/Chapter1.tex
 Chapter 1.
 -------------------------------------------
- 1 Literature Review
+ 1 Introduction
 -------------------------------------------
-[1
+) (Chapters/Chapter2.tex [1
 
 
 
 ]
-<./Figures/rectifier.jpg, id=533, 545.78906pt x 355.3275pt>
+Chapter 2.
+-------------------------------------------
+ 2 Literature Review
+-------------------------------------------
+[2
+
+]
+<./Figures/rectifier.jpg, id=346, 545.78906pt x 355.3275pt>
 File: ./Figures/rectifier.jpg Graphic file (type jpg)
 <use ./Figures/rectifier.jpg>
-Package pdftex.def Info: ./Figures/rectifier.jpg  used on input line 63.
+Package pdftex.def Info: ./Figures/rectifier.jpg  used on input line 62.
 (pdftex.def)             Requested size: 289.07999pt x 188.19797pt.
- [2 <./Figures/rectifier.jpg>]
+ [3 <./Figures/rectifier.jpg>]
 
 pdfTeX warning: pdflatex (file ./Figures/Picture1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Picture1.pdf, id=541, 392.96812pt x 149.8097pt>
+<./Figures/Picture1.pdf, id=354, 392.96812pt x 149.8097pt>
 File: ./Figures/Picture1.pdf Graphic file (type pdf)
 <use ./Figures/Picture1.pdf>
-Package pdftex.def Info: ./Figures/Picture1.pdf  used on input line 79.
+Package pdftex.def Info: ./Figures/Picture1.pdf  used on input line 78.
 (pdftex.def)             Requested size: 289.07999pt x 110.2128pt.
 
-Overfull \hbox (7.15807pt too wide) in paragraph at lines 84--88
+Overfull \hbox (7.15807pt too wide) in paragraph at lines 83--87
 \OT1/cmr/m/n/10.95 The ba-sic com-po-nent of an in-verter is fast work-ing switch like IGBT or MOS-FET.However,
  []
 
 
 
 pdfTeX warning: pdflatex (file ./Figures/Mosfet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Mosfet.pdf, id=543, 461.47406pt x 307.1475pt>
+<./Figures/Mosfet.pdf, id=356, 461.47406pt x 307.1475pt>
 File: ./Figures/Mosfet.pdf Graphic file (type pdf)
 <use ./Figures/Mosfet.pdf>
-Package pdftex.def Info: ./Figures/Mosfet.pdf  used on input line 99.
+Package pdftex.def Info: ./Figures/Mosfet.pdf  used on input line 98.
 (pdftex.def)             Requested size: 144.54pt x 96.20363pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/Picture2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Picture2.pdf, id=545, 441.90094pt x 364.36125pt>
+<./Figures/Picture2.pdf, id=358, 441.90094pt x 364.36125pt>
 File: ./Figures/Picture2.pdf Graphic file (type pdf)
 <use ./Figures/Picture2.pdf>
-Package pdftex.def Info: ./Figures/Picture2.pdf  used on input line 108.
+Package pdftex.def Info: ./Figures/Picture2.pdf  used on input line 107.
 (pdftex.def)             Requested size: 216.81pt x 178.76651pt.
-[3 <./Figures/Picture1.pdf>] [4 <./Figures/Mosfet.pdf> <./Figures/Picture2.pdf>]
-
-pdfTeX warning: pdflatex (file ./Figures/Picture3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Picture3.pdf, id=563, 411.03563pt x 236.38312pt>
-File: ./Figures/Picture3.pdf Graphic file (type pdf)
-<use ./Figures/Picture3.pdf>
-Package pdftex.def Info: ./Figures/Picture3.pdf  used on input line 148.
-(pdftex.def)             Requested size: 361.34999pt x 207.80858pt.
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 156.
-
+[4 <./Figures/Picture1.pdf>] [5 <./Figures/Mosfet.pdf> <./Figures/Picture2.pdf>]
+<./Figures/Picture3.jpg, id=376, 280.79906pt x 302.63063pt>
+File: ./Figures/Picture3.jpg Graphic file (type jpg)
+<use ./Figures/Picture3.jpg>
+Package pdftex.def Info: ./Figures/Picture3.jpg  used on input line 155.
+(pdftex.def)             Requested size: 361.34999pt x 389.46695pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/h-bridge.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/h-bridge.pdf, id=566, 538.26094pt x 270.25969pt>
+<./Figures/h-bridge.pdf, id=379, 538.26094pt x 270.25969pt>
 File: ./Figures/h-bridge.pdf Graphic file (type pdf)
 <use ./Figures/h-bridge.pdf>
-Package pdftex.def Info: ./Figures/h-bridge.pdf  used on input line 167.
+Package pdftex.def Info: ./Figures/h-bridge.pdf  used on input line 174.
 (pdftex.def)             Requested size: 361.34999pt x 181.43594pt.
-[5] [6 <./Figures/Picture3.pdf> <./Figures/h-bridge.pdf>]
+[6] [7 <./Figures/Picture3.jpg> <./Figures/h-bridge.pdf>]
 
 pdfTeX warning: pdflatex (file ./Figures/Doc1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Doc1.pdf, id=583, 713.66624pt x 402.75468pt>
+<./Figures/Doc1.pdf, id=398, 713.66624pt x 402.75468pt>
 File: ./Figures/Doc1.pdf Graphic file (type pdf)
 <use ./Figures/Doc1.pdf>
-Package pdftex.def Info: ./Figures/Doc1.pdf  used on input line 197.
+Package pdftex.def Info: ./Figures/Doc1.pdf  used on input line 204.
 (pdftex.def)             Requested size: 252.94499pt x 142.74844pt.
-[7 <./Figures/Doc1.pdf>]
-<./Figures/LCLfilter.jpg, id=591, 450.9347pt x 188.20313pt>
+[8 <./Figures/Doc1.pdf>] [9]
+<./Figures/LCLfilter.jpg, id=411, 450.9347pt x 188.20313pt>
 File: ./Figures/LCLfilter.jpg Graphic file (type jpg)
 <use ./Figures/LCLfilter.jpg>
-Package pdftex.def Info: ./Figures/LCLfilter.jpg  used on input line 259.
+Package pdftex.def Info: ./Figures/LCLfilter.jpg  used on input line 266.
 (pdftex.def)             Requested size: 289.07999pt x 120.65634pt.
-) [8] (Chapters/Chapter2.tex [9 <./Figures/LCLfilter.jpg>]
-Chapter 2.
--------------------------------------------
- 2 Flow Chart and Block Diagram
--------------------------------------------
-<./Figures/Presentation1.png, id=600, 428.35031pt x 249.18094pt>
-File: ./Figures/Presentation1.png Graphic file (type png)
-<use ./Figures/Presentation1.png>
-Package pdftex.def Info: ./Figures/Presentation1.png  used on input line 10.
-(pdftex.def)             Requested size: 505.89pt x 294.28949pt.
-
-Overfull \hbox (88.41693pt too wide) in paragraph at lines 10--12
- [][] 
- []
-
-[10
-
- <./Figures/Presentation1.png>]
-<./Figures/block.png, id=607, 631.60968pt x 321.45094pt>
-File: ./Figures/block.png Graphic file (type png)
-<use ./Figures/block.png>
-Package pdftex.def Info: ./Figures/block.png  used on input line 19.
-(pdftex.def)             Requested size: 361.34999pt x 183.9058pt.
-) (Chapters/Chapter3.tex [11 <./Figures/block.png>]
+) (Chapters/Chapter3.tex [10 <./Figures/LCLfilter.jpg>]
 Chapter 3.
 -------------------------------------------
- 3 Circuit Design and Analysis
+ 3 Software Implementation
 -------------------------------------------
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
-
+Overfull \hbox (80.78995pt too wide) in paragraph at lines 28--29
+[][] 
  []
 
-[12
+<./Figures/rectifier1.jpg, id=416, 444.91219pt x 263.48438pt>
+File: ./Figures/rectifier1.jpg Graphic file (type jpg)
+<use ./Figures/rectifier1.jpg>
+Package pdftex.def Info: ./Figures/rectifier1.jpg  used on input line 34.
+(pdftex.def)             Requested size: 433.62pt x 256.79771pt.
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-
- []
-
-[13]
-
-pdfTeX warning: pdflatex (file ./Figures/design.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/design.pdf, id=637, 289.08pt x 295.1025pt>
-File: ./Figures/design.pdf Graphic file (type pdf)
-<use ./Figures/design.pdf>
-Package pdftex.def Info: ./Figures/design.pdf  used on input line 74.
-(pdftex.def)             Requested size: 180.67499pt x 184.4386pt.
-<./Figures/SWITCH.pdf, id=638, 963.6pt x 542.025pt>
-File: ./Figures/SWITCH.pdf Graphic file (type pdf)
-<use ./Figures/SWITCH.pdf>
-Package pdftex.def Info: ./Figures/SWITCH.pdf  used on input line 82.
-(pdftex.def)             Requested size: 433.62pt x 243.90898pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 82--84
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 34--36
  [][] 
  []
 
+<./Figures/rectifier2.jpg, id=417, 345.54094pt x 204.01219pt>
+File: ./Figures/rectifier2.jpg Graphic file (type jpg)
+<use ./Figures/rectifier2.jpg>
+Package pdftex.def Info: ./Figures/rectifier2.jpg  used on input line 41.
+(pdftex.def)             Requested size: 433.62pt x 256.0201pt.
 
-
-pdfTeX warning: pdflatex (file ./Figures/graph.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/graph.pdf, id=639, 783.49812pt x 379.70459pt>
-File: ./Figures/graph.pdf Graphic file (type pdf)
-<use ./Figures/graph.pdf>
-Package pdftex.def Info: ./Figures/graph.pdf  used on input line 89.
-(pdftex.def)             Requested size: 433.62pt x 210.14757pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 89--91
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 41--43
  [][] 
  []
 
-[14 <./Figures/design.pdf> <./Figures/SWITCH.pdf>]
-<./Figures/eq.pdf, id=656, 963.6pt x 542.025pt>
-File: ./Figures/eq.pdf Graphic file (type pdf)
-<use ./Figures/eq.pdf>
-Package pdftex.def Info: ./Figures/eq.pdf  used on input line 106.
-(pdftex.def)             Requested size: 252.94499pt x 142.27956pt.
-<./Figures/Presentation5.pdf, id=659, 963.6pt x 542.025pt>
-File: ./Figures/Presentation5.pdf Graphic file (type pdf)
-<use ./Figures/Presentation5.pdf>
-Package pdftex.def Info: ./Figures/Presentation5.pdf  used on input line 113.
-(pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
-<./Figures/Spectrum.pdf, id=660, 963.6pt x 542.025pt>
-File: ./Figures/Spectrum.pdf Graphic file (type pdf)
-<use ./Figures/Spectrum.pdf>
-Package pdftex.def Info: ./Figures/Spectrum.pdf  used on input line 120.
-(pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
- [15 <./Figures/graph.pdf> <./Figures/eq.pdf>] [16 <./Figures/Presentation5.pdf> <./Figures/Spectrum.pdf
+[11
 
-pdfTeX warning: pdflatex (file ./Figures/Spectrum.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]
-<./Figures/better.pdf, id=685, 963.6pt x 542.025pt>
-File: ./Figures/better.pdf Graphic file (type pdf)
-<use ./Figures/better.pdf>
-Package pdftex.def Info: ./Figures/better.pdf  used on input line 156.
-(pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
-<./Figures/imp.pdf, id=686, 963.6pt x 542.025pt>
-File: ./Figures/imp.pdf Graphic file (type pdf)
-<use ./Figures/imp.pdf>
-Package pdftex.def Info: ./Figures/imp.pdf  used on input line 163.
-(pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
- [17] [18 <./Figures/better.pdf> <./Figures/imp.pdf
+] [12 <./Figures/rectifier1.jpg> <./Figures/rectifier2.jpg>]
+<./Figures/Inverter.jpg, id=426, 233.37187pt x 235.63031pt>
+File: ./Figures/Inverter.jpg Graphic file (type jpg)
+<use ./Figures/Inverter.jpg>
+Package pdftex.def Info: ./Figures/Inverter.jpg  used on input line 50.
+(pdftex.def)             Requested size: 433.62pt x 437.86516pt.
 
-pdfTeX warning: pdflatex (file ./Figures/imp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
-[]\OT1/cmr/m/n/10.95 Isolated Sup-plies for
- []
-
-
-Underfull \hbox (badness 5592) in paragraph at lines 187--187
-[]\OT1/cmr/m/n/10.95 TLP250 In-put (Gate
- []
-
-) (Chapters/Chapter4.tex [19]
-Chapter 4.
--------------------------------------------
- 4 Detailed Circuit Design
--------------------------------------------
-<./Figures/Photos/circuit.pdf, id=706, 2580.64125pt x 2219.29124pt>
-File: ./Figures/Photos/circuit.pdf Graphic file (type pdf)
-<use ./Figures/Photos/circuit.pdf>
-Package pdftex.def Info: ./Figures/Photos/circuit.pdf  used on input line 9.
-(pdftex.def)             Requested size: 433.62pt x 372.87225pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 9--11
-[][]
- []
-
-[20
-
- <./Figures/Photos/circuit.pdf>]
-
-pdfTeX warning: pdflatex (file ./Figures/ss.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/ss.pdf, id=721, 770.12718pt x 324.46219pt>
-File: ./Figures/ss.pdf Graphic file (type pdf)
-<use ./Figures/ss.pdf>
-Package pdftex.def Info: ./Figures/ss.pdf  used on input line 26.
-(pdftex.def)             Requested size: 361.34999pt x 152.23979pt.
-<./Figures/Gate_driver.JPG, id=722, 616.55344pt x 374.14781pt>
-File: ./Figures/Gate_driver.JPG Graphic file (type jpg)
-<use ./Figures/Gate_driver.JPG>
-Package pdftex.def Info: ./Figures/Gate_driver.JPG  used on input line 41.
-(pdftex.def)             Requested size: 361.34999pt x 219.28377pt.
-
-
-pdfTeX warning: pdflatex (file ./Figures/tlp250.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/tlp250.pdf, id=723, 149.05687pt x 204.01219pt>
-File: ./Figures/tlp250.pdf Graphic file (type pdf)
-<use ./Figures/tlp250.pdf>
-Package pdftex.def Info: ./Figures/tlp250.pdf  used on input line 49.
-(pdftex.def)             Requested size: 108.405pt x 148.37355pt.
-[21 <./Figures/ss.pdf>] [22 <./Figures/Gate_driver.JPG> <./Figures/tlp250.pdf>]
-<./Figures/HBridge1.JPG, id=739, 472.76625pt x 436.63126pt>
-File: ./Figures/HBridge1.JPG Graphic file (type jpg)
-<use ./Figures/HBridge1.JPG>
-Package pdftex.def Info: ./Figures/HBridge1.JPG  used on input line 69.
-(pdftex.def)             Requested size: 274.6262pt x 253.63939pt.
-<./Figures/HBridge2.JPG, id=740, 469.755pt x 395.97937pt>
-File: ./Figures/HBridge2.JPG Graphic file (type jpg)
-<use ./Figures/HBridge2.JPG>
-Package pdftex.def Info: ./Figures/HBridge2.JPG  used on input line 76.
-(pdftex.def)             Requested size: 274.6262pt x 231.49292pt.
-<./Figures/C_1.JPG, id=741, 531.48563pt x 341.02406pt>
-File: ./Figures/C_1.JPG Graphic file (type jpg)
-<use ./Figures/C_1.JPG>
-Package pdftex.def Info: ./Figures/C_1.JPG  used on input line 83.
-(pdftex.def)             Requested size: 433.62pt x 278.23656pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 83--85
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 50--52
  [][] 
  []
 
-<./Figures/C_2.JPG, id=742, 574.39594pt x 380.92313pt>
-File: ./Figures/C_2.JPG Graphic file (type jpg)
-<use ./Figures/C_2.JPG>
-Package pdftex.def Info: ./Figures/C_2.JPG  used on input line 90.
-(pdftex.def)             Requested size: 433.62pt x 287.56903pt.
+<./Figures/Inverter1.jpg, id=427, 671.50874pt x 377.15906pt>
+File: ./Figures/Inverter1.jpg Graphic file (type jpg)
+<use ./Figures/Inverter1.jpg>
+Package pdftex.def Info: ./Figures/Inverter1.jpg  used on input line 57.
+(pdftex.def)             Requested size: 433.62pt x 243.54485pt.
 
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 90--92
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 57--59
  [][] 
  []
 
-) (Chapters/Chapter5.tex [23 <./Figures/HBridge1.JPG> <./Figures/HBridge2.JPG>] [24 <./Figures/C_1.JPG> <./Figures/C_2.JPG>]
-Chapter 5.
--------------------------------------------
- 5 Simulation Results
--------------------------------------------
-<./Figures/Photos/Simulink/GateSignal1.jpg, id=752, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/GateSignal1.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/GateSignal1.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/GateSignal1.jpg  used on input line 28.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 28--30
- [][] 
- []
-
-<./Figures/Photos/Simulink/GateSignal2.jpg, id=753, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/GateSignal2.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/GateSignal2.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/GateSignal2.jpg  used on input line 35.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 35--37
- [][] 
- []
-
-<./Figures/Photos/Simulink/Source_Current_Res.jpg, id=754, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Source_Current_Res.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Source_Current_Res.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Source_Current_Res.jpg  used on input line 44.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 44--46
- [][] 
- []
-
-[25
-
- <./Figures/Photos/Simulink/GateSignal1.jpg>] [26 <./Figures/Photos/Simulink/GateSignal2.jpg> <./Figures/Photos/Simulink/Source_Current_Res.jpg>]
-<./Figures/Photos/Simulink/Source_Current_Induc.jpg, id=763, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Source_Current_Induc.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Source_Current_Induc.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Source_Current_Induc.jpg  used on input line 52.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 52--54
- [][] 
- []
-
-<./Figures/Photos/Simulink/Switch_currents_1_Res.jpg, id=764, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Switch_currents_1_Res.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Switch_currents_1_Res.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Switch_currents_1_Res.jpg  used on input line 61.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 61--63
- [][] 
- []
-
-<./Figures/Photos/Simulink/Switch_currents_2_Res.jpg, id=765, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Switch_currents_2_Res.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Switch_currents_2_Res.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Switch_currents_2_Res.jpg  used on input line 68.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 68--70
- [][] 
- []
-
-[27 <./Figures/Photos/Simulink/Source_Current_Induc.jpg> <./Figures/Photos/Simulink/Switch_currents_1_Res.jpg>]
-<./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg, id=770, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg  used on input line 76.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 76--78
- [][] 
- []
-
-<./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg, id=771, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg  used on input line 83.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 83--85
- [][] 
- []
-
-[28 <./Figures/Photos/Simulink/Switch_currents_2_Res.jpg> <./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg>]
-<./Figures/Photos/Simulink/Load_Current_Res.jpg, id=776, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Load_Current_Res.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Load_Current_Res.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Load_Current_Res.jpg  used on input line 92.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 92--94
- [][] 
- []
-
-<./Figures/Photos/Simulink/Load_Current_Induc.jpg, id=777, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Load_Current_Induc.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Load_Current_Induc.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Load_Current_Induc.jpg  used on input line 99.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 99--101
- [][] 
- []
-
-<./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg, id=778, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg  used on input line 106.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 106--108
- [][] 
- []
-
-[29 <./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg> <./Figures/Photos/Simulink/Load_Current_Res.jpg>]
-<./Figures/Photos/Simulink/Output.jpg, id=783, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/Output.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Output.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Output.jpg  used on input line 115.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 115--117
- [][] 
- []
-
-<./Figures/Photos/Simulink/Output_FFT.jpg, id=784, 698.61pt x 495.35063pt>
-File: ./Figures/Photos/Simulink/Output_FFT.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Output_FFT.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Output_FFT.jpg  used on input line 121.
-(pdftex.def)             Requested size: 433.62pt x 307.4619pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 121--123
- [][] 
- []
-
-<./Figures/Photos/Simulink/Output_FFT_tab.jpg, id=785, 244.66406pt x 234.8775pt>
-File: ./Figures/Photos/Simulink/Output_FFT_tab.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/Output_FFT_tab.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/Output_FFT_tab.jpg  used on input line 127.
-(pdftex.def)             Requested size: 289.07999pt x 277.52219pt.
-[30 <./Figures/Photos/Simulink/Load_Current_Induc.jpg> <./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg>] [31 <./Figures/Photos/Simulink/Output.jpg> <./Figures/Photos/Simulink/Output_FFT.jpg>]
-<./Figures/Photos/Simulink/PWM_Out.jpg, id=795, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/PWM_Out.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/PWM_Out.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/PWM_Out.jpg  used on input line 137.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 137--139
- [][] 
- []
-
-<./Figures/Photos/Simulink/PWM_Out_FFT.jpg, id=796, 698.61pt x 495.35063pt>
-File: ./Figures/Photos/Simulink/PWM_Out_FFT.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/PWM_Out_FFT.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/PWM_Out_FFT.jpg  used on input line 144.
-(pdftex.def)             Requested size: 433.62pt x 307.4619pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 144--146
- [][] 
- []
-
-<./Figures/Photos/Simulink/SPWM_Out.jpg, id=797, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/SPWM_Out.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/SPWM_Out.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/SPWM_Out.jpg  used on input line 153.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 153--155
- [][] 
- []
-
-[32 <./Figures/Photos/Simulink/Output_FFT_tab.jpg> <./Figures/Photos/Simulink/PWM_Out.jpg>]
-<./Figures/Photos/Simulink/SPWM_Out_FFT.jpg, id=802, 699.36281pt x 494.59781pt>
-File: ./Figures/Photos/Simulink/SPWM_Out_FFT.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/SPWM_Out_FFT.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/SPWM_Out_FFT.jpg  used on input line 160.
-(pdftex.def)             Requested size: 433.62pt x 306.66255pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 160--162
- [][] 
- []
-
-<./Figures/Photos/Simulink/And_PWM_Out.jpg, id=803, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/And_PWM_Out.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/And_PWM_Out.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/And_PWM_Out.jpg  used on input line 169.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 169--171
- [][] 
- []
-
-[33 <./Figures/Photos/Simulink/PWM_Out_FFT.jpg> <./Figures/Photos/Simulink/SPWM_Out.jpg>]
-<./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg, id=808, 699.36281pt x 494.59781pt>
-File: ./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg  used on input line 176.
-(pdftex.def)             Requested size: 433.62pt x 306.66255pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 176--178
- [][] 
- []
-
-<./Figures/Photos/Simulink/And_SPWM_Out.jpg, id=809, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/And_SPWM_Out.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/And_SPWM_Out.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/And_SPWM_Out.jpg  used on input line 185.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 185--187
- [][] 
- []
-
-[34 <./Figures/Photos/Simulink/SPWM_Out_FFT.jpg> <./Figures/Photos/Simulink/And_PWM_Out.jpg>]
-<./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg, id=814, 698.61pt x 493.0922pt>
-File: ./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg  used on input line 192.
-(pdftex.def)             Requested size: 433.62pt x 306.0601pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 192--194
- [][] 
- []
-
-[35 <./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg> <./Figures/Photos/Simulink/And_SPWM_Out.jpg>] [36 <./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg>]
-<./Figures/Photos/Simulink/SHE_Out.jpg, id=828, 1355.0625pt x 639.38875pt>
-File: ./Figures/Photos/Simulink/SHE_Out.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/SHE_Out.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/SHE_Out.jpg  used on input line 258.
-(pdftex.def)             Requested size: 433.62pt x 204.60857pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 258--260
- [][] 
- []
-
-<./Figures/Photos/Simulink/SHE_FFT.jpg, id=829, 697.8572pt x 496.10344pt>
-File: ./Figures/Photos/Simulink/SHE_FFT.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/SHE_FFT.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/SHE_FFT.jpg  used on input line 265.
-(pdftex.def)             Requested size: 433.62pt x 308.26224pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 265--267
- [][] 
- []
-
-<./Figures/Photos/Simulink/SHE_FFT_table.jpg, id=830, 697.8572pt x 308.65312pt>
-File: ./Figures/Photos/Simulink/SHE_FFT_table.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/SHE_FFT_table.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/SHE_FFT_table.jpg  used on input line 271.
-(pdftex.def)             Requested size: 433.62pt x 191.78682pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 271--273
- [][] 
- []
-
-[37 <./Figures/Photos/Simulink/SHE_Out.jpg>] [38 <./Figures/Photos/Simulink/SHE_FFT.jpg> <./Figures/Photos/Simulink/SHE_FFT_table.jpg>]
-<./Figures/Photos/Simulink/d_vrms.jpg, id=839, 1371.1225pt x 663.47874pt>
-File: ./Figures/Photos/Simulink/d_vrms.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Simulink/d_vrms.jpg>
-Package pdftex.def Info: ./Figures/Photos/Simulink/d_vrms.jpg  used on input line 281.
-(pdftex.def)             Requested size: 433.62pt x 209.82706pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 281--283
- [][] 
- []
-
-) (Chapters/Chapter6.tex [39 <./Figures/Photos/Simulink/d_vrms.jpg>]
-Chapter 6.
--------------------------------------------
- 6 Hardware Results
--------------------------------------------
-<./Figures/Photos/Hardware/2.jpg, id=844, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/2.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/2.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/2.jpg  used on input line 10.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 10--12
- [][] 
- []
-
-<./Figures/Photos/Hardware/15.jpg, id=845, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/15.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/15.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/15.jpg  used on input line 19.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 19--21
- [][] 
- []
-
-[40
-
- <./Figures/Photos/Hardware/2.jpg>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 43.
-
-<./Figures/Photos/Hardware/18.jpg, id=850, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/18.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/18.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/18.jpg  used on input line 65.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
+[13 <./Figures/Inverter.jpg>]
+<./Figures/180inverter.jpg, id=433, 648.17157pt x 239.39438pt>
+File: ./Figures/180inverter.jpg Graphic file (type jpg)
+<use ./Figures/180inverter.jpg>
+Package pdftex.def Info: ./Figures/180inverter.jpg  used on input line 65.
+(pdftex.def)             Requested size: 433.62pt x 160.1523pt.
 
 Overfull \hbox (16.14693pt too wide) in paragraph at lines 65--67
  [][] 
  []
 
-[41 <./Figures/Photos/Hardware/15.jpg>]
+<./Figures/LCL.jpg, id=434, 962.09438pt x 308.65312pt>
+File: ./Figures/LCL.jpg Graphic file (type jpg)
+<use ./Figures/LCL.jpg>
+Package pdftex.def Info: ./Figures/LCL.jpg  used on input line 71.
+(pdftex.def)             Requested size: 433.62pt x 139.11397pt.
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 70.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 70.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 70.
-
-<./Figures/Photos/Hardware/22.jpg, id=861, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/22.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/22.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/22.jpg  used on input line 96.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 96--98
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 71--73
  [][] 
  []
 
-[42 <./Figures/Photos/Hardware/18.jpg>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 102.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 102.
-
-<./Figures/Photos/Hardware/23.jpg, id=873, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/23.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/23.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/23.jpg  used on input line 128.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 128--130
- [][] 
- []
-
-[43 <./Figures/Photos/Hardware/22.jpg>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 134.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 134.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 134.
-
-<./Figures/Photos/Hardware/26.jpg, id=883, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/26.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/26.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/26.jpg  used on input line 160.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 160--162
- [][] 
- []
-
-[44 <./Figures/Photos/Hardware/23.jpg>]
-<./Figures/Photos/Hardware/32.jpg, id=893, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/32.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/32.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/32.jpg  used on input line 169.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 169--171
- [][] 
- []
-
-[45 <./Figures/Photos/Hardware/26.jpg> <./Figures/Photos/Hardware/32.jpg>]
-<./Figures/Photos/Hardware/51.jpg, id=898, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/51.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/51.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/51.jpg  used on input line 178.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 178--180
- [][] 
- []
-
-<./Figures/Photos/Hardware/31.jpg, id=899, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/31.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/31.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/31.jpg  used on input line 187.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 187--189
- [][] 
- []
-
-<./Figures/Photos/Hardware/33.jpg, id=900, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/33.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/33.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/33.jpg  used on input line 199.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 199--201
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 193--203
-
- []
-
-[46 <./Figures/Photos/Hardware/51.jpg> <./Figures/Photos/Hardware/31.jpg>]
-<./Figures/Photos/Hardware/34.jpg, id=905, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/34.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/34.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/34.jpg  used on input line 207.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 207--209
- [][] 
- []
-
-<./Figures/Photos/Hardware/35.jpg, id=906, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/35.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/35.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/35.jpg  used on input line 216.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 216--218
- [][] 
- []
-
-<./Figures/Photos/Hardware/36.jpg, id=907, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/36.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/36.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/36.jpg  used on input line 225.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 225--227
- [][] 
- []
-
-[47 <./Figures/Photos/Hardware/33.jpg> <./Figures/Photos/Hardware/34.jpg>]
-<./Figures/Photos/Hardware/37.jpg, id=912, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/37.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/37.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/37.jpg  used on input line 234.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 234--236
- [][] 
- []
-
-[48 <./Figures/Photos/Hardware/35.jpg> <./Figures/Photos/Hardware/36.jpg>]
-<./Figures/Photos/Hardware/38.jpg, id=918, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/38.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/38.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/38.jpg  used on input line 243.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 243--245
- [][] 
- []
-
-[49 <./Figures/Photos/Hardware/37.jpg> <./Figures/Photos/Hardware/38.jpg>]
-<./Figures/Photos/Hardware/39.jpg, id=923, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/39.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/39.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/39.jpg  used on input line 252.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 252--254
- [][] 
- []
-
-<./Figures/Photos/Hardware/40.jpg, id=924, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/40.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/40.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/40.jpg  used on input line 261.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 261--263
- [][] 
- []
-
-[50 <./Figures/Photos/Hardware/39.jpg> <./Figures/Photos/Hardware/40.jpg>]
-<./Figures/Photos/Hardware/41.jpg, id=929, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/41.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/41.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/41.jpg  used on input line 270.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 270--272
- [][] 
- []
-
-<./Figures/Photos/Hardware/42.jpg, id=930, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/42.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/42.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/42.jpg  used on input line 279.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 279--281
- [][] 
- []
-
-[51 <./Figures/Photos/Hardware/41.jpg> <./Figures/Photos/Hardware/42.jpg>]
-<./Figures/Photos/Hardware/43.jpg, id=935, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/43.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/43.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/43.jpg  used on input line 288.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 288--290
- [][] 
- []
-
-<./Figures/Photos/Hardware/44.jpg, id=936, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/44.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/44.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/44.jpg  used on input line 296.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 296--298
- [][] 
- []
-
-[52 <./Figures/Photos/Hardware/43.jpg> <./Figures/Photos/Hardware/44.jpg>]
-<./Figures/Photos/Hardware/45.jpg, id=941, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/45.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/45.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/45.jpg  used on input line 304.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 304--306
- [][] 
- []
-
-<./Figures/Photos/Hardware/46.jpg, id=942, 361.35pt x 176.15813pt>
-File: ./Figures/Photos/Hardware/46.jpg Graphic file (type jpg)
-<use ./Figures/Photos/Hardware/46.jpg>
-Package pdftex.def Info: ./Figures/Photos/Hardware/46.jpg  used on input line 312.
-(pdftex.def)             Requested size: 433.62pt x 211.39136pt.
-
-Overfull \hbox (16.14693pt too wide) in paragraph at lines 312--314
- [][] 
- []
-
-[53 <./Figures/Photos/Hardware/45.jpg> <./Figures/Photos/Hardware/46.jpg>]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 355.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 355.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 355.
-
-<./Figures/p_d_v.jpg, id=947, 562.1pt x 421.575pt>
-File: ./Figures/p_d_v.jpg Graphic file (type jpg)
-<use ./Figures/p_d_v.jpg>
-Package pdftex.def Info: ./Figures/p_d_v.jpg  used on input line 358.
-(pdftex.def)             Requested size: 361.34999pt x 271.00998pt.
-[54 <./Figures/p_d_v.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 384--384
-[]\OT1/cmr/m/n/10.95 Isolated Sup-plies for
- []
-
-
-Underfull \hbox (badness 5592) in paragraph at lines 386--386
-[]\OT1/cmr/m/n/10.95 TLP250 In-put (Gate
- []
-
-) (Chapters/Chapter7.tex [55]
-Chapter 7.
+) (Chapters/Chapter4.tex [14 <./Figures/Inverter1.jpg> <./Figures/180inverter.jpg>] [15 <./Figures/LCL.jpg>]
+Chapter 4.
 -------------------------------------------
- 7 Conclusion
+ 4 Circuit Design and Analysis
 -------------------------------------------
-) (Chapters/AppendixA.tex [56
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+[16
+
+] [17] [18]) (Chapters/Chapter5.tex [19]
+Chapter 5.
+-------------------------------------------
+ 5 Simulation Results
+-------------------------------------------
+<./Figures/5k.JPG, id=491, 350.05782pt x 231.86626pt>
+File: ./Figures/5k.JPG Graphic file (type jpg)
+<use ./Figures/5k.JPG>
+Package pdftex.def Info: ./Figures/5k.JPG  used on input line 9.
+(pdftex.def)             Requested size: 433.62pt x 287.2352pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 9--11
+ [][] 
+ []
+
+<./Figures/7k.JPG, id=492, 417.81094pt x 283.81032pt>
+File: ./Figures/7k.JPG Graphic file (type jpg)
+<use ./Figures/7k.JPG>
+Package pdftex.def Info: ./Figures/7k.JPG  used on input line 15.
+(pdftex.def)             Requested size: 433.62pt x 294.5668pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 15--17
+ [][] 
+ []
+
+<./Figures/10k.JPG, id=493, 349.305pt x 233.37187pt>
+File: ./Figures/10k.JPG Graphic file (type jpg)
+<use ./Figures/10k.JPG>
+Package pdftex.def Info: ./Figures/10k.JPG  used on input line 21.
+(pdftex.def)             Requested size: 433.62pt x 289.71997pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 21--23
+ [][] 
+ []
+
+<./Figures/13k.JPG, id=494, 405.01312pt x 247.67531pt>
+File: ./Figures/13k.JPG Graphic file (type jpg)
+<use ./Figures/13k.JPG>
+Package pdftex.def Info: ./Figures/13k.JPG  used on input line 27.
+(pdftex.def)             Requested size: 433.62pt x 265.17624pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 27--29
+ [][] 
+ []
+
+<./Figures/15k.JPG, id=495, 328.22626pt x 252.19218pt>
+File: ./Figures/15k.JPG Graphic file (type jpg)
+<use ./Figures/15k.JPG>
+Package pdftex.def Info: ./Figures/15k.JPG  used on input line 33.
+(pdftex.def)             Requested size: 433.62pt x 333.17561pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 33--35
+ [][] 
+ []
+
+<./Figures/20k.JPG, id=496, 411.03563pt x 253.69781pt>
+File: ./Figures/20k.JPG Graphic file (type jpg)
+<use ./Figures/20k.JPG>
+Package pdftex.def Info: ./Figures/20k.JPG  used on input line 39.
+(pdftex.def)             Requested size: 433.62pt x 267.63705pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 39--41
+ [][] 
+ []
+
+[20
+
+ <./Figures/5k.JPG>] [21 <./Figures/7k.JPG> <./Figures/10k.JPG>] [22 <./Figures/13k.JPG> <./Figures/15k.JPG>]
+<./Figures/50.JPG, id=509, 479.54156pt x 301.125pt>
+File: ./Figures/50.JPG Graphic file (type jpg)
+<use ./Figures/50.JPG>
+Package pdftex.def Info: ./Figures/50.JPG  used on input line 47.
+(pdftex.def)             Requested size: 433.62pt x 272.29193pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 47--49
+ [][] 
+ []
+
+<./Figures/100.JPG, id=510, 487.06969pt x 326.72063pt>
+File: ./Figures/100.JPG Graphic file (type jpg)
+<use ./Figures/100.JPG>
+Package pdftex.def Info: ./Figures/100.JPG  used on input line 53.
+(pdftex.def)             Requested size: 433.62pt x 290.87016pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 53--55
+ [][] 
+ []
+
+<./Figures/150.JPG, id=511, 430.60875pt x 325.96782pt>
+File: ./Figures/150.JPG Graphic file (type jpg)
+<use ./Figures/150.JPG>
+Package pdftex.def Info: ./Figures/150.JPG  used on input line 59.
+(pdftex.def)             Requested size: 433.62pt x 328.25497pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 59--61
+ [][] 
+ []
+
+<./Figures/170.JPG, id=512, 478.78876pt x 336.50719pt>
+File: ./Figures/170.JPG Graphic file (type jpg)
+<use ./Figures/170.JPG>
+Package pdftex.def Info: ./Figures/170.JPG  used on input line 65.
+(pdftex.def)             Requested size: 433.62pt x 304.76375pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 65--67
+ [][] 
+ []
+
+File: ./Figures/50.JPG Graphic file (type jpg)
+<use ./Figures/50.JPG>
+Package pdftex.def Info: ./Figures/50.JPG  used on input line 71.
+(pdftex.def)             Requested size: 433.62pt x 272.29193pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 71--73
+ [][] 
+ []
+
+[23 <./Figures/20k.JPG>] [24 <./Figures/50.JPG> <./Figures/100.JPG>]
+<./Figures/mod.JPG, id=521, 358.33875pt x 215.30438pt>
+File: ./Figures/mod.JPG Graphic file (type jpg)
+<use ./Figures/mod.JPG>
+Package pdftex.def Info: ./Figures/mod.JPG  used on input line 79.
+(pdftex.def)             Requested size: 433.62pt x 260.55194pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 79--81
+ [][] 
+ []
+
+[25 <./Figures/150.JPG>] [26 <./Figures/170.JPG>]
+<./Figures/25freq.JPG, id=531, 503.63156pt x 329.73187pt>
+File: ./Figures/25freq.JPG Graphic file (type jpg)
+<use ./Figures/25freq.JPG>
+Package pdftex.def Info: ./Figures/25freq.JPG  used on input line 87.
+(pdftex.def)             Requested size: 433.62pt x 283.89594pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 87--89
+ [][] 
+ []
+
+<./Figures/50freq.JPG, id=532, 386.19281pt x 302.63063pt>
+File: ./Figures/50freq.JPG Graphic file (type jpg)
+<use ./Figures/50freq.JPG>
+Package pdftex.def Info: ./Figures/50freq.JPG  used on input line 93.
+(pdftex.def)             Requested size: 433.62pt x 339.79826pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 93--95
+ [][] 
+ []
+
+<./Figures/100freq.JPG, id=533, 359.09157pt x 274.77657pt>
+File: ./Figures/100freq.JPG Graphic file (type jpg)
+<use ./Figures/100freq.JPG>
+Package pdftex.def Info: ./Figures/100freq.JPG  used on input line 99.
+(pdftex.def)             Requested size: 433.62pt x 331.83078pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 99--101
+ [][] 
+ []
+
+<./Figures/graph2freq.JPG, id=534, 359.09157pt x 215.30438pt>
+File: ./Figures/graph2freq.JPG Graphic file (type jpg)
+<use ./Figures/graph2freq.JPG>
+Package pdftex.def Info: ./Figures/graph2freq.JPG  used on input line 106.
+(pdftex.def)             Requested size: 433.62pt x 260.00987pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 106--108
+ [][] 
+ []
+
+<./Figures/graph1freq.JPG, id=535, 358.33875pt x 212.29312pt>
+File: ./Figures/graph1freq.JPG Graphic file (type jpg)
+<use ./Figures/graph1freq.JPG>
+Package pdftex.def Info: ./Figures/graph1freq.JPG  used on input line 112.
+(pdftex.def)             Requested size: 433.62pt x 256.90787pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 112--114
+ [][] 
+ []
+
+<./Figures/Photos/task3/Task3_reading1/V313F25hz.JPG, id=536, 809.27344pt x 471.26062pt>
+File: ./Figures/Photos/task3/Task3_reading1/V313F25hz.JPG Graphic file (type jpg)
+<use ./Figures/Photos/task3/Task3_reading1/V313F25hz.JPG>
+Package pdftex.def Info: ./Figures/Photos/task3/Task3_reading1/V313F25hz.JPG  used on input line 121.
+(pdftex.def)             Requested size: 433.62pt x 252.51384pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 121--123
+ [][] 
+ []
+
+<./Figures/Photos/task3/Task3_reading2/V525F45.JPG, id=537, 811.53188pt x 471.26062pt>
+File: ./Figures/Photos/task3/Task3_reading2/V525F45.JPG Graphic file (type jpg)
+<use ./Figures/Photos/task3/Task3_reading2/V525F45.JPG>
+Package pdftex.def Info: ./Figures/Photos/task3/Task3_reading2/V525F45.JPG  used on input line 127.
+(pdftex.def)             Requested size: 433.62pt x 251.80914pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 127--129
+ [][] 
+ []
+
+<./Figures/Photos/task3/Task3_reading3/V132F70.JPG, id=538, 809.27344pt x 472.76625pt>
+File: ./Figures/Photos/task3/Task3_reading3/V132F70.JPG Graphic file (type jpg)
+<use ./Figures/Photos/task3/Task3_reading3/V132F70.JPG>
+Package pdftex.def Info: ./Figures/Photos/task3/Task3_reading3/V132F70.JPG  used on input line 133.
+(pdftex.def)             Requested size: 433.62pt x 253.32059pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 133--135
+ [][] 
+ []
+
+<./Figures/Photos/task3/Graph1.JPG, id=539, 493.0922pt x 415.5525pt>
+File: ./Figures/Photos/task3/Graph1.JPG Graphic file (type jpg)
+<use ./Figures/Photos/task3/Graph1.JPG>
+Package pdftex.def Info: ./Figures/Photos/task3/Graph1.JPG  used on input line 140.
+(pdftex.def)             Requested size: 433.62pt x 365.45271pt.
+
+Overfull \hbox (16.14693pt too wide) in paragraph at lines 140--142
+ [][] 
+ []
+
+) (Chapters/Chapter6.tex [27 <./Figures/mod.JPG>] [28 <./Figures/25freq.JPG>] [29 <./Figures/50freq.JPG>] [30 <./Figures/100freq.JPG> <./Figures/graph2freq.JPG>] [31 <./Figures/graph1freq.JPG> <./Figures/Photos/task3/Task3_reading1/V313F25hz.JPG>] [32 <./Figures/Photos/task3/Task3_reading2/V525F45.JPG> <./Figures/Photos/task3/Task3_reading3/V132F70.JPG>] [33 <./Figures/Photos/task3/Graph1.JPG>]
+Chapter 6.
+-------------------------------------------
+ 6 Conclusion
+-------------------------------------------
+) (Chapters/Chapter7.tex [34
 
 ]
-Appendix A.
+Chapter 7.
 -------------------------------------------
- A Code for Project
+ 7 References
 -------------------------------------------
-[57
 
-] [58] [59] [60] [61] [62] [63] [64]) [65]
+Overfull \hbox (34.92436pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/10.95 [1] Re-view of Con-trolled rec-ti-fier: [][]$\OT1/cmtt/m/n/10.95 https : / / www . irjet . net / archives / V2 / i4 / Irjet-[]v2i4219 .
+ []
+
+) [35
+
+]
 -------------------------------------------
  References
 -------------------------------------------
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 280.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 280.
 ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 229.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 280.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 280.
 Package rerunfilecheck Info: File `uet_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: D26FB5E695289712976507D22BAFF59A;11661.
+(rerunfilecheck)             Checksum: D3E64831156D24089D601F9F255CCE54;7569.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 229.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 280.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 168 ({)
+### simple group (level 1) entered at line 219 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15874 strings out of 481212
- 238747 string characters out of 2902187
- 701642 words of memory out of 3000000
- 30518 multiletter control sequences out of 15000+200000
- 546568 words of font info for 73 fonts, out of 3000000 for 9000
+ 47395 strings out of 481212
+ 1169359 string characters out of 2902187
+ 1798797 words of memory out of 3000000
+ 62132 multiletter control sequences out of 15000+200000
+ 543622 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,12n,51p,598b,2294s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Usman IlamDin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.pdf" (72 pages, 5404227 bytes).
+ 67i,12n,98p,1226b,2314s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Usman IlamDin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.pdf" (41 pages, 2086983 bytes).
 PDF statistics:
- 1557 PDF objects out of 1728 (max. 8388607)
- 628 named destinations out of 1000 (max. 500000)
- 906 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 664 PDF objects out of 1000 (max. 8388607)
+ 161 named destinations out of 1000 (max. 500000)
+ 532 words of extra memory for PDF output out of 10000 (max. 10000000)
 
