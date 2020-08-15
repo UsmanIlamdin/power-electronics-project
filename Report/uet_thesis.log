@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.24)  31 JUL 2020 12:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.15)  15 AUG 2020 10:41
 entering extended mode
 **"c:/Users/Usman IlamDin/Documents/GitHub/power-electronics-project/Report/uet_thesis.tex"
 ("c:/Users/Usman IlamDin/Documents/GitHub/power-electronics-project/Report/uet_thesis.tex"
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-07-17> ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.cls"
+L3 programming layer <2020-08-07> ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.cls"
 Document Class: uet_thesis 2010/22/03 v1.1 LaTeX document class
 ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls"
 Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
@@ -129,7 +129,7 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty"
 Package: caption 2020/05/30 v3.4k Customizing captions (AR)
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty"
-Package: caption3 2020/05/30 v1.12 caption3 kernel (AR)
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
@@ -397,7 +397,7 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty"
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 49.
+Package hyperref Info: Option `colorlinks' set `true' on input line 48.
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty"
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box54
@@ -410,10 +410,16 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen187
 \titlewidthfirst=\dimen188
 ) ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count297
 \l__pdf_internal_box=\box55
 ) ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.aux"
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
 
 LaTeX Warning: Label `fig:1' multiply defined.
 
@@ -434,9 +440,6 @@ LaTeX Warning: Label `fig:4' multiply defined.
 
 
 LaTeX Warning: Label `fig:5' multiply defined.
-
-
-LaTeX Warning: Label `fig:6' multiply defined.
 
 
 LaTeX Warning: Label `fig:1' multiply defined.
@@ -468,24 +471,24 @@ LaTeX Warning: Label `Chapter5' multiply defined.
 )
 \openout1 = `uet_thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -515,7 +518,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 )
 \c@lstlisting=\count304
 \AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring ON on input line 63.
+Package hyperref Info: Link coloring ON on input line 62.
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  ("C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty"
@@ -525,9 +528,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count305
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
  ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.out") ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.out")
 \@outlinefile=\write3
 \openout3 = `uet_thesis.out'.
@@ -538,12 +541,12 @@ LaTeX Info: Redefining \nameref on input line 63.
 -------------------------------------------
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\kernel@ifnextchar' on input line 83.
+(hyperref)                removing `\kernel@ifnextchar' on input line 82.
 
 <./Figures/uet_logo.pdf, id=263, 150.5625pt x 150.5625pt>
 File: ./Figures/uet_logo.pdf Graphic file (type pdf)
 <use ./Figures/uet_logo.pdf>
-Package pdftex.def Info: ./Figures/uet_logo.pdf  used on input line 83.
+Package pdftex.def Info: ./Figures/uet_logo.pdf  used on input line 82.
 (pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
 [1
 
@@ -597,131 +600,102 @@ Chapter 1.
 -------------------------------------------
  1 Literature Review
 -------------------------------------------
-
-
-pdfTeX warning: pdflatex (file ./Figures/Picture1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Picture1.pdf, id=528, 392.96812pt x 149.8097pt>
-File: ./Figures/Picture1.pdf Graphic file (type pdf)
-<use ./Figures/Picture1.pdf>
-Package pdftex.def Info: ./Figures/Picture1.pdf  used on input line 17.
-(pdftex.def)             Requested size: 289.07999pt x 110.2128pt.
-
-Overfull \hbox (7.15807pt too wide) in paragraph at lines 22--23
-\OT1/cmr/m/n/10.95 The ba-sic com-po-nent of an in-verter is fast work-ing switch like IGBT or MOS-FET.However,
- []
-
 [1
 
 
 
- <./Figures/Picture1.pdf>]
+]
+<./Figures/rectifier.jpg, id=533, 545.78906pt x 355.3275pt>
+File: ./Figures/rectifier.jpg Graphic file (type jpg)
+<use ./Figures/rectifier.jpg>
+Package pdftex.def Info: ./Figures/rectifier.jpg  used on input line 63.
+(pdftex.def)             Requested size: 289.07999pt x 188.19797pt.
+ [2 <./Figures/rectifier.jpg>]
+
+pdfTeX warning: pdflatex (file ./Figures/Picture1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./Figures/Picture1.pdf, id=541, 392.96812pt x 149.8097pt>
+File: ./Figures/Picture1.pdf Graphic file (type pdf)
+<use ./Figures/Picture1.pdf>
+Package pdftex.def Info: ./Figures/Picture1.pdf  used on input line 79.
+(pdftex.def)             Requested size: 289.07999pt x 110.2128pt.
+
+Overfull \hbox (7.15807pt too wide) in paragraph at lines 84--88
+\OT1/cmr/m/n/10.95 The ba-sic com-po-nent of an in-verter is fast work-ing switch like IGBT or MOS-FET.However,
+ []
+
+
 
 pdfTeX warning: pdflatex (file ./Figures/Mosfet.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Mosfet.pdf, id=539, 461.47406pt x 307.1475pt>
+<./Figures/Mosfet.pdf, id=543, 461.47406pt x 307.1475pt>
 File: ./Figures/Mosfet.pdf Graphic file (type pdf)
 <use ./Figures/Mosfet.pdf>
-Package pdftex.def Info: ./Figures/Mosfet.pdf  used on input line 34.
+Package pdftex.def Info: ./Figures/Mosfet.pdf  used on input line 99.
 (pdftex.def)             Requested size: 144.54pt x 96.20363pt.
 
 
 pdfTeX warning: pdflatex (file ./Figures/Picture2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Picture2.pdf, id=541, 441.90094pt x 364.36125pt>
+<./Figures/Picture2.pdf, id=545, 441.90094pt x 364.36125pt>
 File: ./Figures/Picture2.pdf Graphic file (type pdf)
 <use ./Figures/Picture2.pdf>
-Package pdftex.def Info: ./Figures/Picture2.pdf  used on input line 43.
+Package pdftex.def Info: ./Figures/Picture2.pdf  used on input line 108.
 (pdftex.def)             Requested size: 216.81pt x 178.76651pt.
-[2 <./Figures/Mosfet.pdf> <./Figures/Picture2.pdf>]
+[3 <./Figures/Picture1.pdf>] [4 <./Figures/Mosfet.pdf> <./Figures/Picture2.pdf>]
 
 pdfTeX warning: pdflatex (file ./Figures/Picture3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Picture3.pdf, id=552, 411.03563pt x 236.38312pt>
+<./Figures/Picture3.pdf, id=563, 411.03563pt x 236.38312pt>
 File: ./Figures/Picture3.pdf Graphic file (type pdf)
 <use ./Figures/Picture3.pdf>
-Package pdftex.def Info: ./Figures/Picture3.pdf  used on input line 83.
+Package pdftex.def Info: ./Figures/Picture3.pdf  used on input line 148.
 (pdftex.def)             Requested size: 361.34999pt x 207.80858pt.
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 91.
+LaTeX Warning: Command \textendash invalid in math mode on input line 156.
 
-[3]
+
 
 pdfTeX warning: pdflatex (file ./Figures/h-bridge.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/h-bridge.pdf, id=559, 538.26094pt x 270.25969pt>
+<./Figures/h-bridge.pdf, id=566, 538.26094pt x 270.25969pt>
 File: ./Figures/h-bridge.pdf Graphic file (type pdf)
 <use ./Figures/h-bridge.pdf>
-Package pdftex.def Info: ./Figures/h-bridge.pdf  used on input line 102.
+Package pdftex.def Info: ./Figures/h-bridge.pdf  used on input line 167.
 (pdftex.def)             Requested size: 361.34999pt x 181.43594pt.
-
-
-pdfTeX warning: pdflatex (file ./Figures/quasi2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/quasi2.pdf, id=561, 356.0803pt x 158.09062pt>
-File: ./Figures/quasi2.pdf Graphic file (type pdf)
-<use ./Figures/quasi2.pdf>
-Package pdftex.def Info: ./Figures/quasi2.pdf  used on input line 122.
-(pdftex.def)             Requested size: 361.34999pt x 160.43735pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--127
-
- []
-
-[4 <./Figures/Picture3.pdf>] [5 <./Figures/h-bridge.pdf> <./Figures/quasi2.pdf>]
-
-LaTeX Warning: Reference `fig8' on page 6 undefined on input line 134.
-
-
-LaTeX Warning: Reference `fig8' on page 6 undefined on input line 139.
-
-
-
-pdfTeX warning: pdflatex (file ./Figures/ninecircuit.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/ninecircuit.pdf, id=580, 322.20375pt x 318.43968pt>
-File: ./Figures/ninecircuit.pdf Graphic file (type pdf)
-<use ./Figures/ninecircuit.pdf>
-Package pdftex.def Info: ./Figures/ninecircuit.pdf  used on input line 142.
-(pdftex.def)             Requested size: 361.34999pt x 357.14563pt.
-
-
-pdfTeX warning: pdflatex (file ./Figures/ninewave.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/ninewave.pdf, id=581, 264.23718pt x 353.06906pt>
-File: ./Figures/ninewave.pdf Graphic file (type pdf)
-<use ./Figures/ninewave.pdf>
-Package pdftex.def Info: ./Figures/ninewave.pdf  used on input line 149.
-(pdftex.def)             Requested size: 216.81pt x 289.69627pt.
-[6 <./Figures/ninecircuit.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
-
- []
-
-[7 <./Figures/ninewave.pdf>] [8]
+[5] [6 <./Figures/Picture3.pdf> <./Figures/h-bridge.pdf>]
 
 pdfTeX warning: pdflatex (file ./Figures/Doc1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/Doc1.pdf, id=602, 713.66624pt x 402.75468pt>
+<./Figures/Doc1.pdf, id=583, 713.66624pt x 402.75468pt>
 File: ./Figures/Doc1.pdf Graphic file (type pdf)
 <use ./Figures/Doc1.pdf>
-Package pdftex.def Info: ./Figures/Doc1.pdf  used on input line 224.
+Package pdftex.def Info: ./Figures/Doc1.pdf  used on input line 197.
 (pdftex.def)             Requested size: 252.94499pt x 142.74844pt.
-[9 <./Figures/Doc1.pdf>] [10]) (Chapters/Chapter2.tex [11]
+[7 <./Figures/Doc1.pdf>]
+<./Figures/LCLfilter.jpg, id=591, 450.9347pt x 188.20313pt>
+File: ./Figures/LCLfilter.jpg Graphic file (type jpg)
+<use ./Figures/LCLfilter.jpg>
+Package pdftex.def Info: ./Figures/LCLfilter.jpg  used on input line 259.
+(pdftex.def)             Requested size: 289.07999pt x 120.65634pt.
+) [8] (Chapters/Chapter2.tex [9 <./Figures/LCLfilter.jpg>]
 Chapter 2.
 -------------------------------------------
  2 Flow Chart and Block Diagram
 -------------------------------------------
-<./Figures/Presentation1.pdf, id=620, 963.6pt x 542.025pt>
-File: ./Figures/Presentation1.pdf Graphic file (type pdf)
-<use ./Figures/Presentation1.pdf>
-Package pdftex.def Info: ./Figures/Presentation1.pdf  used on input line 10.
-(pdftex.def)             Requested size: 505.89pt x 284.55911pt.
+<./Figures/Presentation1.png, id=600, 428.35031pt x 249.18094pt>
+File: ./Figures/Presentation1.png Graphic file (type png)
+<use ./Figures/Presentation1.png>
+Package pdftex.def Info: ./Figures/Presentation1.png  used on input line 10.
+(pdftex.def)             Requested size: 505.89pt x 294.28949pt.
 
 Overfull \hbox (88.41693pt too wide) in paragraph at lines 10--12
  [][] 
  []
 
-[12
+[10
 
- <./Figures/Presentation1.pdf>]
-<./Figures/block.png, id=634, 804.606pt x 339.1872pt>
+ <./Figures/Presentation1.png>]
+<./Figures/block.png, id=607, 631.60968pt x 321.45094pt>
 File: ./Figures/block.png Graphic file (type png)
 <use ./Figures/block.png>
 Package pdftex.def Info: ./Figures/block.png  used on input line 19.
-(pdftex.def)             Requested size: 361.34999pt x 152.32747pt.
-) (Chapters/Chapter3.tex [13 <./Figures/block.png>]
+(pdftex.def)             Requested size: 361.34999pt x 183.9058pt.
+) (Chapters/Chapter3.tex [11 <./Figures/block.png>]
 Chapter 3.
 -------------------------------------------
  3 Circuit Design and Analysis
@@ -731,22 +705,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--33
 
  []
 
-[14
+[12
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-[15]
+[13]
 
 pdfTeX warning: pdflatex (file ./Figures/design.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/design.pdf, id=663, 289.08pt x 295.1025pt>
+<./Figures/design.pdf, id=637, 289.08pt x 295.1025pt>
 File: ./Figures/design.pdf Graphic file (type pdf)
 <use ./Figures/design.pdf>
 Package pdftex.def Info: ./Figures/design.pdf  used on input line 74.
 (pdftex.def)             Requested size: 180.67499pt x 184.4386pt.
-<./Figures/SWITCH.pdf, id=664, 963.6pt x 542.025pt>
+<./Figures/SWITCH.pdf, id=638, 963.6pt x 542.025pt>
 File: ./Figures/SWITCH.pdf Graphic file (type pdf)
 <use ./Figures/SWITCH.pdf>
 Package pdftex.def Info: ./Figures/SWITCH.pdf  used on input line 82.
@@ -759,7 +733,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 82--84
 
 
 pdfTeX warning: pdflatex (file ./Figures/graph.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/graph.pdf, id=665, 783.49812pt x 379.70459pt>
+<./Figures/graph.pdf, id=639, 783.49812pt x 379.70459pt>
 File: ./Figures/graph.pdf Graphic file (type pdf)
 <use ./Figures/graph.pdf>
 Package pdftex.def Info: ./Figures/graph.pdf  used on input line 89.
@@ -769,37 +743,37 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 89--91
  [][] 
  []
 
-[16 <./Figures/design.pdf> <./Figures/SWITCH.pdf>]
-<./Figures/eq.pdf, id=682, 963.6pt x 542.025pt>
+[14 <./Figures/design.pdf> <./Figures/SWITCH.pdf>]
+<./Figures/eq.pdf, id=656, 963.6pt x 542.025pt>
 File: ./Figures/eq.pdf Graphic file (type pdf)
 <use ./Figures/eq.pdf>
 Package pdftex.def Info: ./Figures/eq.pdf  used on input line 106.
 (pdftex.def)             Requested size: 252.94499pt x 142.27956pt.
-<./Figures/Presentation5.pdf, id=685, 963.6pt x 542.025pt>
+<./Figures/Presentation5.pdf, id=659, 963.6pt x 542.025pt>
 File: ./Figures/Presentation5.pdf Graphic file (type pdf)
 <use ./Figures/Presentation5.pdf>
 Package pdftex.def Info: ./Figures/Presentation5.pdf  used on input line 113.
 (pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
-<./Figures/Spectrum.pdf, id=686, 963.6pt x 542.025pt>
+<./Figures/Spectrum.pdf, id=660, 963.6pt x 542.025pt>
 File: ./Figures/Spectrum.pdf Graphic file (type pdf)
 <use ./Figures/Spectrum.pdf>
 Package pdftex.def Info: ./Figures/Spectrum.pdf  used on input line 120.
 (pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
- [17 <./Figures/graph.pdf> <./Figures/eq.pdf>] [18 <./Figures/Presentation5.pdf> <./Figures/Spectrum.pdf
+ [15 <./Figures/graph.pdf> <./Figures/eq.pdf>] [16 <./Figures/Presentation5.pdf> <./Figures/Spectrum.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/Spectrum.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<./Figures/better.pdf, id=712, 963.6pt x 542.025pt>
+<./Figures/better.pdf, id=685, 963.6pt x 542.025pt>
 File: ./Figures/better.pdf Graphic file (type pdf)
 <use ./Figures/better.pdf>
 Package pdftex.def Info: ./Figures/better.pdf  used on input line 156.
 (pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
-<./Figures/imp.pdf, id=713, 963.6pt x 542.025pt>
+<./Figures/imp.pdf, id=686, 963.6pt x 542.025pt>
 File: ./Figures/imp.pdf Graphic file (type pdf)
 <use ./Figures/imp.pdf>
 Package pdftex.def Info: ./Figures/imp.pdf  used on input line 163.
 (pdftex.def)             Requested size: 361.34999pt x 203.25887pt.
- [19] [20 <./Figures/better.pdf> <./Figures/imp.pdf
+ [17] [18 <./Figures/better.pdf> <./Figures/imp.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/imp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
@@ -812,12 +786,12 @@ Underfull \hbox (badness 5592) in paragraph at lines 187--187
 []\OT1/cmr/m/n/10.95 TLP250 In-put (Gate
  []
 
-) (Chapters/Chapter4.tex [21]
+) (Chapters/Chapter4.tex [19]
 Chapter 4.
 -------------------------------------------
  4 Detailed Circuit Design
 -------------------------------------------
-<./Figures/Photos/circuit.pdf, id=732, 2580.64125pt x 2219.29124pt>
+<./Figures/Photos/circuit.pdf, id=706, 2580.64125pt x 2219.29124pt>
 File: ./Figures/Photos/circuit.pdf Graphic file (type pdf)
 <use ./Figures/Photos/circuit.pdf>
 Package pdftex.def Info: ./Figures/Photos/circuit.pdf  used on input line 9.
@@ -827,17 +801,17 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 9--11
 [][]
  []
 
-[22
+[20
 
  <./Figures/Photos/circuit.pdf>]
 
 pdfTeX warning: pdflatex (file ./Figures/ss.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/ss.pdf, id=747, 770.12718pt x 324.46219pt>
+<./Figures/ss.pdf, id=721, 770.12718pt x 324.46219pt>
 File: ./Figures/ss.pdf Graphic file (type pdf)
 <use ./Figures/ss.pdf>
 Package pdftex.def Info: ./Figures/ss.pdf  used on input line 26.
 (pdftex.def)             Requested size: 361.34999pt x 152.23979pt.
-<./Figures/Gate_driver.JPG, id=748, 616.55344pt x 374.14781pt>
+<./Figures/Gate_driver.JPG, id=722, 616.55344pt x 374.14781pt>
 File: ./Figures/Gate_driver.JPG Graphic file (type jpg)
 <use ./Figures/Gate_driver.JPG>
 Package pdftex.def Info: ./Figures/Gate_driver.JPG  used on input line 41.
@@ -845,23 +819,23 @@ Package pdftex.def Info: ./Figures/Gate_driver.JPG  used on input line 41.
 
 
 pdfTeX warning: pdflatex (file ./Figures/tlp250.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figures/tlp250.pdf, id=749, 149.05687pt x 204.01219pt>
+<./Figures/tlp250.pdf, id=723, 149.05687pt x 204.01219pt>
 File: ./Figures/tlp250.pdf Graphic file (type pdf)
 <use ./Figures/tlp250.pdf>
 Package pdftex.def Info: ./Figures/tlp250.pdf  used on input line 49.
 (pdftex.def)             Requested size: 108.405pt x 148.37355pt.
-[23 <./Figures/ss.pdf>] [24 <./Figures/Gate_driver.JPG> <./Figures/tlp250.pdf>]
-<./Figures/HBridge1.JPG, id=766, 472.76625pt x 436.63126pt>
+[21 <./Figures/ss.pdf>] [22 <./Figures/Gate_driver.JPG> <./Figures/tlp250.pdf>]
+<./Figures/HBridge1.JPG, id=739, 472.76625pt x 436.63126pt>
 File: ./Figures/HBridge1.JPG Graphic file (type jpg)
 <use ./Figures/HBridge1.JPG>
 Package pdftex.def Info: ./Figures/HBridge1.JPG  used on input line 69.
 (pdftex.def)             Requested size: 274.6262pt x 253.63939pt.
-<./Figures/HBridge2.JPG, id=767, 469.755pt x 395.97937pt>
+<./Figures/HBridge2.JPG, id=740, 469.755pt x 395.97937pt>
 File: ./Figures/HBridge2.JPG Graphic file (type jpg)
 <use ./Figures/HBridge2.JPG>
 Package pdftex.def Info: ./Figures/HBridge2.JPG  used on input line 76.
 (pdftex.def)             Requested size: 274.6262pt x 231.49292pt.
-<./Figures/C_1.JPG, id=768, 531.48563pt x 341.02406pt>
+<./Figures/C_1.JPG, id=741, 531.48563pt x 341.02406pt>
 File: ./Figures/C_1.JPG Graphic file (type jpg)
 <use ./Figures/C_1.JPG>
 Package pdftex.def Info: ./Figures/C_1.JPG  used on input line 83.
@@ -871,7 +845,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 83--85
  [][] 
  []
 
-<./Figures/C_2.JPG, id=769, 574.39594pt x 380.92313pt>
+<./Figures/C_2.JPG, id=742, 574.39594pt x 380.92313pt>
 File: ./Figures/C_2.JPG Graphic file (type jpg)
 <use ./Figures/C_2.JPG>
 Package pdftex.def Info: ./Figures/C_2.JPG  used on input line 90.
@@ -881,12 +855,12 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 90--92
  [][] 
  []
 
-) (Chapters/Chapter5.tex [25 <./Figures/HBridge1.JPG> <./Figures/HBridge2.JPG>] [26 <./Figures/C_1.JPG> <./Figures/C_2.JPG>]
+) (Chapters/Chapter5.tex [23 <./Figures/HBridge1.JPG> <./Figures/HBridge2.JPG>] [24 <./Figures/C_1.JPG> <./Figures/C_2.JPG>]
 Chapter 5.
 -------------------------------------------
  5 Simulation Results
 -------------------------------------------
-<./Figures/Photos/Simulink/GateSignal1.jpg, id=778, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/GateSignal1.jpg, id=752, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/GateSignal1.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/GateSignal1.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/GateSignal1.jpg  used on input line 28.
@@ -896,7 +870,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 28--30
  [][] 
  []
 
-<./Figures/Photos/Simulink/GateSignal2.jpg, id=779, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/GateSignal2.jpg, id=753, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/GateSignal2.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/GateSignal2.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/GateSignal2.jpg  used on input line 35.
@@ -906,7 +880,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 35--37
  [][] 
  []
 
-<./Figures/Photos/Simulink/Source_Current_Res.jpg, id=780, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/Source_Current_Res.jpg, id=754, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Source_Current_Res.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Source_Current_Res.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Source_Current_Res.jpg  used on input line 44.
@@ -916,10 +890,10 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 44--46
  [][] 
  []
 
-[27
+[25
 
- <./Figures/Photos/Simulink/GateSignal1.jpg>] [28 <./Figures/Photos/Simulink/GateSignal2.jpg> <./Figures/Photos/Simulink/Source_Current_Res.jpg>]
-<./Figures/Photos/Simulink/Source_Current_Induc.jpg, id=789, 1355.0625pt x 639.38875pt>
+ <./Figures/Photos/Simulink/GateSignal1.jpg>] [26 <./Figures/Photos/Simulink/GateSignal2.jpg> <./Figures/Photos/Simulink/Source_Current_Res.jpg>]
+<./Figures/Photos/Simulink/Source_Current_Induc.jpg, id=763, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Source_Current_Induc.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Source_Current_Induc.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Source_Current_Induc.jpg  used on input line 52.
@@ -929,7 +903,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 52--54
  [][] 
  []
 
-<./Figures/Photos/Simulink/Switch_currents_1_Res.jpg, id=790, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/Switch_currents_1_Res.jpg, id=764, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Switch_currents_1_Res.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Switch_currents_1_Res.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Switch_currents_1_Res.jpg  used on input line 61.
@@ -939,7 +913,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 61--63
  [][] 
  []
 
-<./Figures/Photos/Simulink/Switch_currents_2_Res.jpg, id=791, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/Switch_currents_2_Res.jpg, id=765, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Switch_currents_2_Res.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Switch_currents_2_Res.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Switch_currents_2_Res.jpg  used on input line 68.
@@ -949,8 +923,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 68--70
  [][] 
  []
 
-[29 <./Figures/Photos/Simulink/Source_Current_Induc.jpg> <./Figures/Photos/Simulink/Switch_currents_1_Res.jpg>]
-<./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg, id=796, 1355.0625pt x 639.38875pt>
+[27 <./Figures/Photos/Simulink/Source_Current_Induc.jpg> <./Figures/Photos/Simulink/Switch_currents_1_Res.jpg>]
+<./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg, id=770, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg  used on input line 76.
@@ -960,7 +934,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 76--78
  [][] 
  []
 
-<./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg, id=797, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg, id=771, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg  used on input line 83.
@@ -970,8 +944,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 83--85
  [][] 
  []
 
-[30 <./Figures/Photos/Simulink/Switch_currents_2_Res.jpg> <./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg>]
-<./Figures/Photos/Simulink/Load_Current_Res.jpg, id=803, 1355.0625pt x 639.38875pt>
+[28 <./Figures/Photos/Simulink/Switch_currents_2_Res.jpg> <./Figures/Photos/Simulink/Switch_currents_1_Induc.jpg>]
+<./Figures/Photos/Simulink/Load_Current_Res.jpg, id=776, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Load_Current_Res.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Load_Current_Res.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Load_Current_Res.jpg  used on input line 92.
@@ -981,7 +955,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 92--94
  [][] 
  []
 
-<./Figures/Photos/Simulink/Load_Current_Induc.jpg, id=804, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/Load_Current_Induc.jpg, id=777, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Load_Current_Induc.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Load_Current_Induc.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Load_Current_Induc.jpg  used on input line 99.
@@ -991,7 +965,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 99--101
  [][] 
  []
 
-<./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg, id=805, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg, id=778, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg  used on input line 106.
@@ -1001,8 +975,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 106--108
  [][] 
  []
 
-[31 <./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg> <./Figures/Photos/Simulink/Load_Current_Res.jpg>]
-<./Figures/Photos/Simulink/Output.jpg, id=810, 1355.0625pt x 639.38875pt>
+[29 <./Figures/Photos/Simulink/Switch_currents_2_Induc.jpg> <./Figures/Photos/Simulink/Load_Current_Res.jpg>]
+<./Figures/Photos/Simulink/Output.jpg, id=783, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/Output.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Output.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Output.jpg  used on input line 115.
@@ -1012,7 +986,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 115--117
  [][] 
  []
 
-<./Figures/Photos/Simulink/Output_FFT.jpg, id=811, 698.61pt x 495.35063pt>
+<./Figures/Photos/Simulink/Output_FFT.jpg, id=784, 698.61pt x 495.35063pt>
 File: ./Figures/Photos/Simulink/Output_FFT.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Output_FFT.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Output_FFT.jpg  used on input line 121.
@@ -1022,13 +996,13 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 121--123
  [][] 
  []
 
-<./Figures/Photos/Simulink/Output_FFT_tab.jpg, id=812, 244.66406pt x 234.8775pt>
+<./Figures/Photos/Simulink/Output_FFT_tab.jpg, id=785, 244.66406pt x 234.8775pt>
 File: ./Figures/Photos/Simulink/Output_FFT_tab.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/Output_FFT_tab.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/Output_FFT_tab.jpg  used on input line 127.
 (pdftex.def)             Requested size: 289.07999pt x 277.52219pt.
-[32 <./Figures/Photos/Simulink/Load_Current_Induc.jpg> <./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg>] [33 <./Figures/Photos/Simulink/Output.jpg> <./Figures/Photos/Simulink/Output_FFT.jpg>]
-<./Figures/Photos/Simulink/PWM_Out.jpg, id=821, 1355.0625pt x 639.38875pt>
+[30 <./Figures/Photos/Simulink/Load_Current_Induc.jpg> <./Figures/Photos/Simulink/Load_Voltage_Current_Induc.jpg>] [31 <./Figures/Photos/Simulink/Output.jpg> <./Figures/Photos/Simulink/Output_FFT.jpg>]
+<./Figures/Photos/Simulink/PWM_Out.jpg, id=795, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/PWM_Out.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/PWM_Out.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/PWM_Out.jpg  used on input line 137.
@@ -1038,7 +1012,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 137--139
  [][] 
  []
 
-<./Figures/Photos/Simulink/PWM_Out_FFT.jpg, id=822, 698.61pt x 495.35063pt>
+<./Figures/Photos/Simulink/PWM_Out_FFT.jpg, id=796, 698.61pt x 495.35063pt>
 File: ./Figures/Photos/Simulink/PWM_Out_FFT.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/PWM_Out_FFT.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/PWM_Out_FFT.jpg  used on input line 144.
@@ -1048,7 +1022,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 144--146
  [][] 
  []
 
-<./Figures/Photos/Simulink/SPWM_Out.jpg, id=823, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/SPWM_Out.jpg, id=797, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/SPWM_Out.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/SPWM_Out.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/SPWM_Out.jpg  used on input line 153.
@@ -1058,8 +1032,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 153--155
  [][] 
  []
 
-[34 <./Figures/Photos/Simulink/Output_FFT_tab.jpg> <./Figures/Photos/Simulink/PWM_Out.jpg>]
-<./Figures/Photos/Simulink/SPWM_Out_FFT.jpg, id=828, 699.36281pt x 494.59781pt>
+[32 <./Figures/Photos/Simulink/Output_FFT_tab.jpg> <./Figures/Photos/Simulink/PWM_Out.jpg>]
+<./Figures/Photos/Simulink/SPWM_Out_FFT.jpg, id=802, 699.36281pt x 494.59781pt>
 File: ./Figures/Photos/Simulink/SPWM_Out_FFT.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/SPWM_Out_FFT.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/SPWM_Out_FFT.jpg  used on input line 160.
@@ -1069,7 +1043,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 160--162
  [][] 
  []
 
-<./Figures/Photos/Simulink/And_PWM_Out.jpg, id=829, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/And_PWM_Out.jpg, id=803, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/And_PWM_Out.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/And_PWM_Out.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/And_PWM_Out.jpg  used on input line 169.
@@ -1079,8 +1053,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 169--171
  [][] 
  []
 
-[35 <./Figures/Photos/Simulink/PWM_Out_FFT.jpg> <./Figures/Photos/Simulink/SPWM_Out.jpg>]
-<./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg, id=834, 699.36281pt x 494.59781pt>
+[33 <./Figures/Photos/Simulink/PWM_Out_FFT.jpg> <./Figures/Photos/Simulink/SPWM_Out.jpg>]
+<./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg, id=808, 699.36281pt x 494.59781pt>
 File: ./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg  used on input line 176.
@@ -1090,7 +1064,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 176--178
  [][] 
  []
 
-<./Figures/Photos/Simulink/And_SPWM_Out.jpg, id=835, 1355.0625pt x 639.38875pt>
+<./Figures/Photos/Simulink/And_SPWM_Out.jpg, id=809, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/And_SPWM_Out.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/And_SPWM_Out.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/And_SPWM_Out.jpg  used on input line 185.
@@ -1100,8 +1074,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 185--187
  [][] 
  []
 
-[36 <./Figures/Photos/Simulink/SPWM_Out_FFT.jpg> <./Figures/Photos/Simulink/And_PWM_Out.jpg>]
-<./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg, id=841, 698.61pt x 493.0922pt>
+[34 <./Figures/Photos/Simulink/SPWM_Out_FFT.jpg> <./Figures/Photos/Simulink/And_PWM_Out.jpg>]
+<./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg, id=814, 698.61pt x 493.0922pt>
 File: ./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg  used on input line 192.
@@ -1111,8 +1085,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 192--194
  [][] 
  []
 
-[37 <./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg> <./Figures/Photos/Simulink/And_SPWM_Out.jpg>] [38 <./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg>]
-<./Figures/Photos/Simulink/SHE_Out.jpg, id=854, 1355.0625pt x 639.38875pt>
+[35 <./Figures/Photos/Simulink/And_PWM_Out_FFT.jpg> <./Figures/Photos/Simulink/And_SPWM_Out.jpg>] [36 <./Figures/Photos/Simulink/And_SPWM_Out_FFT.jpg>]
+<./Figures/Photos/Simulink/SHE_Out.jpg, id=828, 1355.0625pt x 639.38875pt>
 File: ./Figures/Photos/Simulink/SHE_Out.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/SHE_Out.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/SHE_Out.jpg  used on input line 258.
@@ -1122,7 +1096,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 258--260
  [][] 
  []
 
-<./Figures/Photos/Simulink/SHE_FFT.jpg, id=855, 697.8572pt x 496.10344pt>
+<./Figures/Photos/Simulink/SHE_FFT.jpg, id=829, 697.8572pt x 496.10344pt>
 File: ./Figures/Photos/Simulink/SHE_FFT.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/SHE_FFT.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/SHE_FFT.jpg  used on input line 265.
@@ -1132,7 +1106,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 265--267
  [][] 
  []
 
-<./Figures/Photos/Simulink/SHE_FFT_table.jpg, id=856, 697.8572pt x 308.65312pt>
+<./Figures/Photos/Simulink/SHE_FFT_table.jpg, id=830, 697.8572pt x 308.65312pt>
 File: ./Figures/Photos/Simulink/SHE_FFT_table.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/SHE_FFT_table.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/SHE_FFT_table.jpg  used on input line 271.
@@ -1142,8 +1116,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 271--273
  [][] 
  []
 
-[39 <./Figures/Photos/Simulink/SHE_Out.jpg>] [40 <./Figures/Photos/Simulink/SHE_FFT.jpg> <./Figures/Photos/Simulink/SHE_FFT_table.jpg>]
-<./Figures/Photos/Simulink/d_vrms.jpg, id=865, 1371.1225pt x 663.47874pt>
+[37 <./Figures/Photos/Simulink/SHE_Out.jpg>] [38 <./Figures/Photos/Simulink/SHE_FFT.jpg> <./Figures/Photos/Simulink/SHE_FFT_table.jpg>]
+<./Figures/Photos/Simulink/d_vrms.jpg, id=839, 1371.1225pt x 663.47874pt>
 File: ./Figures/Photos/Simulink/d_vrms.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Simulink/d_vrms.jpg>
 Package pdftex.def Info: ./Figures/Photos/Simulink/d_vrms.jpg  used on input line 281.
@@ -1153,12 +1127,12 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 281--283
  [][] 
  []
 
-) (Chapters/Chapter6.tex [41 <./Figures/Photos/Simulink/d_vrms.jpg>]
+) (Chapters/Chapter6.tex [39 <./Figures/Photos/Simulink/d_vrms.jpg>]
 Chapter 6.
 -------------------------------------------
  6 Hardware Results
 -------------------------------------------
-<./Figures/Photos/Hardware/2.jpg, id=870, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/2.jpg, id=844, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/2.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/2.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/2.jpg  used on input line 10.
@@ -1168,7 +1142,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 10--12
  [][] 
  []
 
-<./Figures/Photos/Hardware/15.jpg, id=871, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/15.jpg, id=845, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/15.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/15.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/15.jpg  used on input line 19.
@@ -1178,7 +1152,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 19--21
  [][] 
  []
 
-[42
+[40
 
  <./Figures/Photos/Hardware/2.jpg>]
 
@@ -1193,7 +1167,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 43.
 
-<./Figures/Photos/Hardware/18.jpg, id=877, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/18.jpg, id=850, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/18.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/18.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/18.jpg  used on input line 65.
@@ -1203,7 +1177,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 65--67
  [][] 
  []
 
-[43 <./Figures/Photos/Hardware/15.jpg>]
+[41 <./Figures/Photos/Hardware/15.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 70.
@@ -1216,7 +1190,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 70.
 
-<./Figures/Photos/Hardware/22.jpg, id=888, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/22.jpg, id=861, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/22.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/22.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/22.jpg  used on input line 96.
@@ -1226,7 +1200,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 96--98
  [][] 
  []
 
-[44 <./Figures/Photos/Hardware/18.jpg>]
+[42 <./Figures/Photos/Hardware/18.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 102.
@@ -1239,7 +1213,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 102.
 
-<./Figures/Photos/Hardware/23.jpg, id=899, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/23.jpg, id=873, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/23.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/23.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/23.jpg  used on input line 128.
@@ -1249,7 +1223,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 128--130
  [][] 
  []
 
-[45 <./Figures/Photos/Hardware/22.jpg>]
+[43 <./Figures/Photos/Hardware/22.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 134.
@@ -1262,7 +1236,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 134.
 
-<./Figures/Photos/Hardware/26.jpg, id=909, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/26.jpg, id=883, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/26.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/26.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/26.jpg  used on input line 160.
@@ -1272,8 +1246,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 160--162
  [][] 
  []
 
-[46 <./Figures/Photos/Hardware/23.jpg>]
-<./Figures/Photos/Hardware/32.jpg, id=919, 361.35pt x 176.15813pt>
+[44 <./Figures/Photos/Hardware/23.jpg>]
+<./Figures/Photos/Hardware/32.jpg, id=893, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/32.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/32.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/32.jpg  used on input line 169.
@@ -1283,8 +1257,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 169--171
  [][] 
  []
 
-[47 <./Figures/Photos/Hardware/26.jpg> <./Figures/Photos/Hardware/32.jpg>]
-<./Figures/Photos/Hardware/51.jpg, id=924, 361.35pt x 176.15813pt>
+[45 <./Figures/Photos/Hardware/26.jpg> <./Figures/Photos/Hardware/32.jpg>]
+<./Figures/Photos/Hardware/51.jpg, id=898, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/51.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/51.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/51.jpg  used on input line 178.
@@ -1294,7 +1268,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 178--180
  [][] 
  []
 
-<./Figures/Photos/Hardware/31.jpg, id=925, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/31.jpg, id=899, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/31.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/31.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/31.jpg  used on input line 187.
@@ -1304,7 +1278,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 187--189
  [][] 
  []
 
-<./Figures/Photos/Hardware/33.jpg, id=926, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/33.jpg, id=900, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/33.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/33.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/33.jpg  used on input line 199.
@@ -1319,8 +1293,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 193--203
 
  []
 
-[48 <./Figures/Photos/Hardware/51.jpg> <./Figures/Photos/Hardware/31.jpg>]
-<./Figures/Photos/Hardware/34.jpg, id=932, 361.35pt x 176.15813pt>
+[46 <./Figures/Photos/Hardware/51.jpg> <./Figures/Photos/Hardware/31.jpg>]
+<./Figures/Photos/Hardware/34.jpg, id=905, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/34.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/34.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/34.jpg  used on input line 207.
@@ -1330,7 +1304,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 207--209
  [][] 
  []
 
-<./Figures/Photos/Hardware/35.jpg, id=933, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/35.jpg, id=906, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/35.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/35.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/35.jpg  used on input line 216.
@@ -1340,7 +1314,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 216--218
  [][] 
  []
 
-<./Figures/Photos/Hardware/36.jpg, id=934, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/36.jpg, id=907, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/36.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/36.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/36.jpg  used on input line 225.
@@ -1350,8 +1324,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 225--227
  [][] 
  []
 
-[49 <./Figures/Photos/Hardware/33.jpg> <./Figures/Photos/Hardware/34.jpg>]
-<./Figures/Photos/Hardware/37.jpg, id=939, 361.35pt x 176.15813pt>
+[47 <./Figures/Photos/Hardware/33.jpg> <./Figures/Photos/Hardware/34.jpg>]
+<./Figures/Photos/Hardware/37.jpg, id=912, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/37.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/37.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/37.jpg  used on input line 234.
@@ -1361,8 +1335,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 234--236
  [][] 
  []
 
-[50 <./Figures/Photos/Hardware/35.jpg> <./Figures/Photos/Hardware/36.jpg>]
-<./Figures/Photos/Hardware/38.jpg, id=944, 361.35pt x 176.15813pt>
+[48 <./Figures/Photos/Hardware/35.jpg> <./Figures/Photos/Hardware/36.jpg>]
+<./Figures/Photos/Hardware/38.jpg, id=918, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/38.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/38.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/38.jpg  used on input line 243.
@@ -1372,8 +1346,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 243--245
  [][] 
  []
 
-[51 <./Figures/Photos/Hardware/37.jpg> <./Figures/Photos/Hardware/38.jpg>]
-<./Figures/Photos/Hardware/39.jpg, id=949, 361.35pt x 176.15813pt>
+[49 <./Figures/Photos/Hardware/37.jpg> <./Figures/Photos/Hardware/38.jpg>]
+<./Figures/Photos/Hardware/39.jpg, id=923, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/39.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/39.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/39.jpg  used on input line 252.
@@ -1383,7 +1357,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 252--254
  [][] 
  []
 
-<./Figures/Photos/Hardware/40.jpg, id=950, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/40.jpg, id=924, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/40.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/40.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/40.jpg  used on input line 261.
@@ -1393,8 +1367,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 261--263
  [][] 
  []
 
-[52 <./Figures/Photos/Hardware/39.jpg> <./Figures/Photos/Hardware/40.jpg>]
-<./Figures/Photos/Hardware/41.jpg, id=955, 361.35pt x 176.15813pt>
+[50 <./Figures/Photos/Hardware/39.jpg> <./Figures/Photos/Hardware/40.jpg>]
+<./Figures/Photos/Hardware/41.jpg, id=929, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/41.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/41.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/41.jpg  used on input line 270.
@@ -1404,7 +1378,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 270--272
  [][] 
  []
 
-<./Figures/Photos/Hardware/42.jpg, id=956, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/42.jpg, id=930, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/42.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/42.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/42.jpg  used on input line 279.
@@ -1414,8 +1388,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 279--281
  [][] 
  []
 
-[53 <./Figures/Photos/Hardware/41.jpg> <./Figures/Photos/Hardware/42.jpg>]
-<./Figures/Photos/Hardware/43.jpg, id=961, 361.35pt x 176.15813pt>
+[51 <./Figures/Photos/Hardware/41.jpg> <./Figures/Photos/Hardware/42.jpg>]
+<./Figures/Photos/Hardware/43.jpg, id=935, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/43.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/43.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/43.jpg  used on input line 288.
@@ -1425,7 +1399,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 288--290
  [][] 
  []
 
-<./Figures/Photos/Hardware/44.jpg, id=962, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/44.jpg, id=936, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/44.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/44.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/44.jpg  used on input line 296.
@@ -1435,8 +1409,8 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 296--298
  [][] 
  []
 
-[54 <./Figures/Photos/Hardware/43.jpg> <./Figures/Photos/Hardware/44.jpg>]
-<./Figures/Photos/Hardware/45.jpg, id=968, 361.35pt x 176.15813pt>
+[52 <./Figures/Photos/Hardware/43.jpg> <./Figures/Photos/Hardware/44.jpg>]
+<./Figures/Photos/Hardware/45.jpg, id=941, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/45.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/45.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/45.jpg  used on input line 304.
@@ -1446,7 +1420,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 304--306
  [][] 
  []
 
-<./Figures/Photos/Hardware/46.jpg, id=969, 361.35pt x 176.15813pt>
+<./Figures/Photos/Hardware/46.jpg, id=942, 361.35pt x 176.15813pt>
 File: ./Figures/Photos/Hardware/46.jpg Graphic file (type jpg)
 <use ./Figures/Photos/Hardware/46.jpg>
 Package pdftex.def Info: ./Figures/Photos/Hardware/46.jpg  used on input line 312.
@@ -1456,7 +1430,7 @@ Overfull \hbox (16.14693pt too wide) in paragraph at lines 312--314
  [][] 
  []
 
-[55 <./Figures/Photos/Hardware/45.jpg> <./Figures/Photos/Hardware/46.jpg>]
+[53 <./Figures/Photos/Hardware/45.jpg> <./Figures/Photos/Hardware/46.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 355.
@@ -1469,12 +1443,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 355.
 
-<./Figures/p_d_v.jpg, id=974, 562.1pt x 421.575pt>
+<./Figures/p_d_v.jpg, id=947, 562.1pt x 421.575pt>
 File: ./Figures/p_d_v.jpg Graphic file (type jpg)
 <use ./Figures/p_d_v.jpg>
 Package pdftex.def Info: ./Figures/p_d_v.jpg  used on input line 358.
 (pdftex.def)             Requested size: 361.34999pt x 271.00998pt.
-[56 <./Figures/p_d_v.jpg>]
+[54 <./Figures/p_d_v.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 384--384
 []\OT1/cmr/m/n/10.95 Isolated Sup-plies for
  []
@@ -1484,56 +1458,53 @@ Underfull \hbox (badness 5592) in paragraph at lines 386--386
 []\OT1/cmr/m/n/10.95 TLP250 In-put (Gate
  []
 
-) (Chapters/Chapter7.tex [57]
+) (Chapters/Chapter7.tex [55]
 Chapter 7.
 -------------------------------------------
  7 Conclusion
 -------------------------------------------
-) (Chapters/AppendixA.tex [58
+) (Chapters/AppendixA.tex [56
 
 ]
 Appendix A.
 -------------------------------------------
  A Code for Project
 -------------------------------------------
-[59
+[57
 
-] [60] [61] [62] [63] [64] [65] [66]) [67]
+] [58] [59] [60] [61] [62] [63] [64]) [65]
 -------------------------------------------
  References
 -------------------------------------------
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
 ("c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 229.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
 Package rerunfilecheck Info: File `uet_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 962D313E7EBF2082C88A110972BE0AB9;12033.
-
-
-LaTeX Warning: There were undefined references.
+(rerunfilecheck)             Checksum: D26FB5E695289712976507D22BAFF59A;11661.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 230.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 229.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 169 ({)
+### simple group (level 1) entered at line 168 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 15881 strings out of 481225
- 238947 string characters out of 2902388
- 701771 words of memory out of 3000000
- 30511 multiletter control sequences out of 15000+200000
+ 15874 strings out of 481212
+ 238747 string characters out of 2902187
+ 701642 words of memory out of 3000000
+ 30518 multiletter control sequences out of 15000+200000
  546568 words of font info for 73 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,51p,598b,2294s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Usman IlamDin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Usman IlamDin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.pdf" (74 pages, 5556971 bytes).
+Output written on "c:/Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.pdf" (72 pages, 5404227 bytes).
 PDF statistics:
- 1584 PDF objects out of 1728 (max. 8388607)
+ 1557 PDF objects out of 1728 (max. 8388607)
  628 named destinations out of 1000 (max. 500000)
- 911 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 906 words of extra memory for PDF output out of 10000 (max. 10000000)
 

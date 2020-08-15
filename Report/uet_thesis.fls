@@ -202,14 +202,19 @@ INPUT c:\Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\u
 OUTPUT c:\Users\Usman IlamDin\Documents\GitHub\power-electronics-project\Report\uet_thesis.lof
 INPUT Chapters\Chapter1.tex
 INPUT Chapters\Chapter1.tex
+INPUT C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
+INPUT Figures\rectifier.jpg
+INPUT .\Figures\rectifier.jpg
+INPUT .\Figures\rectifier.jpg
+INPUT .\Figures\rectifier.jpg
+INPUT .\Figures\rectifier.jpg
+INPUT C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT Figures\Picture1.pdf
 INPUT .\Figures\Picture1.pdf
 INPUT .\Figures\Picture1.pdf
 INPUT .\Figures\Picture1.pdf
-INPUT C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
-INPUT C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\Usman IlamDin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT Figures\Mosfet.pdf
 INPUT .\Figures\Mosfet.pdf
 INPUT .\Figures\Mosfet.pdf
@@ -226,28 +231,22 @@ INPUT Figures\h-bridge.pdf
 INPUT .\Figures\h-bridge.pdf
 INPUT .\Figures\h-bridge.pdf
 INPUT .\Figures\h-bridge.pdf
-INPUT Figures\quasi2.pdf
-INPUT .\Figures\quasi2.pdf
-INPUT .\Figures\quasi2.pdf
-INPUT .\Figures\quasi2.pdf
-INPUT Figures\ninecircuit.pdf
-INPUT .\Figures\ninecircuit.pdf
-INPUT .\Figures\ninecircuit.pdf
-INPUT .\Figures\ninecircuit.pdf
-INPUT Figures\ninewave.pdf
-INPUT .\Figures\ninewave.pdf
-INPUT .\Figures\ninewave.pdf
-INPUT .\Figures\ninewave.pdf
 INPUT Figures\Doc1.pdf
 INPUT .\Figures\Doc1.pdf
 INPUT .\Figures\Doc1.pdf
 INPUT .\Figures\Doc1.pdf
+INPUT Figures\LCLfilter.jpg
+INPUT .\Figures\LCLfilter.jpg
+INPUT .\Figures\LCLfilter.jpg
+INPUT .\Figures\LCLfilter.jpg
+INPUT .\Figures\LCLfilter.jpg
 INPUT Chapters\Chapter2.tex
 INPUT Chapters\Chapter2.tex
-INPUT Figures\Presentation1.pdf
-INPUT .\Figures\Presentation1.pdf
-INPUT .\Figures\Presentation1.pdf
-INPUT .\Figures\Presentation1.pdf
+INPUT Figures\Presentation1.png
+INPUT .\Figures\Presentation1.png
+INPUT .\Figures\Presentation1.png
+INPUT .\Figures\Presentation1.png
+INPUT .\Figures\Presentation1.png
 INPUT Figures\block.png
 INPUT .\Figures\block.png
 INPUT .\Figures\block.png

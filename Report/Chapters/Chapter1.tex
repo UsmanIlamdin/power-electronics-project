@@ -1,10 +1,72 @@
-% Chapter 1
+%chapter 1
 
 \chapter{Literature Review} % Write in your own chapter title
 \label{Chapter1}
 \lhead{Chapter 1. \emph{Literature Review}} % Write in your own chapter title to set the page header
 
 \section{Introduction}
+\section{Rectifier}
+Unlike diode rectifiers, PCRs or phase controlled rectifiers
+has an advantage of regulating the output voltage. The diode
+rectifiers are termed as uncontrolled rectifiers. When 
+these diodes are switched with Thyristors, then it becomes 
+phase control rectifier. The o/p voltage can be regulated 
+by changing the firing angle of the Thyristors. The main 
+application of these rectifiers is involved in speed control 
+of DC motor.
+\subsection{Phase Controlled Rectifier}
+The term PCR or Phase controlled rectifier is a one type of 
+rectifier circuit in which the diodes are switched by Thyristors 
+or SCRs (Silicon Controlled Rectifiers). Whereas the diodes offer
+no control over the o/p voltage, the Thyristors can be used 
+to differ the output voltage by adjusting the firing angle or 
+delay. A phase control Thyristor is activated by applying a short 
+pulse to its gate terminal and it is deactivated due to line 
+communication or natural. In case of heavy inductive load, it is 
+deactivated by firing another Thyristor of the rectifier during 
+the negative half cycle of i/p voltage.
+
+\subsection{Three-phase bridge rectifier controlled}
+The controlled three-phase bridge rectifier uses thyristors in 
+place of diodes. The output voltage is reduced by the factor cos(a).
+
+\begin{equation}
+	V_{dc}=\frac{3\sqrt{3}V_{peak} cos{\alpha} }{\pi}
+\end{equation}
+Or, expressed in terms of the line to line input voltage:
+\begin{equation}
+	V_{dc}=\frac{3V_{LLpeak} cos{\alpha} }{\pi}
+\end{equation}
+
+Where:
+\\VLLpeak, the peak value of the line to line input voltages.
+\\Vpeak, the peak value of the phase (line to neutral) input voltages.
+\\a, firing angle of the thyristor (0 if diodes are used to perform rectification).
+The above equations are only valid when no current is drawn from the AC 
+supply or in the theoretical case when the AC supply connections have no inductance.
+In practice, the supply inductance causes a reduction of DC output voltage 
+with increasing load, typically in the range 10–20 \% at full load.
+
+The effect of supply inductance is to slow down the transfer process 
+(called commutation) from one phase to the next. As result of this is 
+that at each transition between a pair of devices, there is a period 
+of overlap during which three (rather than two) devices in the bridge 
+are conducting simultaneously. The overlap angle is usually referred 
+to by the symbol mu (or u), and may be 20 30° at full load.\\
+With supply inductance taken into account, the output voltage of the
+rectifier is reduced to.
+\begin{equation}
+	V_{dc}=\frac{3V_{LLpeak} cos{\alpha} }{\pi}
+\end{equation}
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width = 4in]{./Figures/rectifier.jpg}
+		\rule{35em}{5pt}
+	\caption{Outputs of Rectifier for firing agle zero}
+	\label{fig:1}
+\end{figure}
+\newpage 
+\section{Inverter}
 A power inverter, or inverter, is an electronic device that converts direct current (DC) to alternating current (AC).
 The input voltage, output voltage and frequency, and overall power handling depend on the design of the specific circuitry[1].\\ 
 Inverters can be divided into two kinds:
@@ -16,12 +78,15 @@ Inverters can be divided into two kinds:
 	\centering
 		\includegraphics[width = 4in]{./Figures/Picture1.pdf}
 		\rule{35em}{5pt}
-	\caption{Outputs of Inverters}
+	\caption{Outputs of Inverters at Zero firing angle}
 	\label{fig:1}
 \end{figure}
-The basic component of an inverter is fast working switch like IGBT or MOSFET.However, later is more preferred because main advantage of a MOSFET is that it requires almost no input current to control the load current, when compared with IGBT.
+The basic component of an inverter is fast working switch like
+IGBT or MOSFET.However, later is more preferred because main 
+advantage of a MOSFET is that it requires almost no input current 
+to control the load current, when compared with IGBT.
 \subsection{MOSFET}
-The MOSFET\ref{fig:2} is a type of field-effect transistor (FET), most commonly fabricated by the controlled oxidation of silicon. It has an insulated gate, whose voltage determines the conductivity of the device. This ability to change conductivity with the amount of applied voltage can be used for amplifying or switching electronic signals.\\
+The MOSFET [\ref{fig:2}] is a type of field-effect transistor (FET), most commonly fabricated by the controlled oxidation of silicon. It has an insulated gate, whose voltage determines the conductivity of the device. This ability to change conductivity with the amount of applied voltage can be used for amplifying or switching electronic signals.\\
 The Mosfet is further divided into n-channel Mosfet and p-channel Mosfet depending upon formation and has three modes of opertion as :
 \begin{itemize}
 \item Cutoff mode
@@ -104,99 +169,7 @@ of the voltage generated by the H-bridge.
 	\caption{Unit H Bridge}
 	\label{fig:5}
 \end{figure}
-
-\section{Cascaded 9-level H Bridge}
-The concept of series H-bridge inverter was first proposed by R. H. Baker and L. H. Banister in 1975.To overcome the drawbacks of Neutral-Point Clamped and Flying Capacitor topologies such as extra clamping diodes and capacitors, Marchesoni have proposed CHI.This modular structure has been subsequently extended for three-phase applications.\\
-CHB-MLI is formed by the series connection of two or
-more single-phase H-bridge inverters; hence the name H bridge is given . Each H-bridge corresponds to two
-voltage source phase legs, where the line–line voltage is
-the inverter output voltage. Therefore, three different
-voltage levels i.e. +V,-V and 0 are generated using a single H-bridge
-inverter.\\
- Series connection of N such bridges can produce 2N+1 levels in the output. This connection is termed as cascaded H-bridge multilevel inverter.
-Each leg has only two possible switching states, to neglect
-dc-link capacitor short-circuit. For two legs,four different switching states are possible, although two of them have redundant output voltage.\\
-If E Volts voltage source is connected with a unit H bridge, it gives 3 levels (E,-E including 0 V) square wave, more precisely Quasi-square wave\ref{fig:3} with voltage peak of E volts.\\
-\begin{figure}[htbp]
-	\centering
-		\includegraphics[width = 5in]{./Figures/quasi2.pdf}
-		\rule{35em}{5pt}
-	\caption{Quasi square wave}
-	\label{fig:6}
-\end{figure}\\
-
-Considering above nomenclature in order to get 9-level staircase output two algorithms can be followed as described below.
-\begin{description}
-\item [Cascading 4 units of H bridge(equal source voltage) in series]
-\item [Cascading 2 units of H bridge(unequal source voltage) in series]
-\end{description}
-\subsection{4 units of H bridge in series}
-In this circuit \ref{fig8} 4 units of H bridge with equal value of source voltage are connected in series to get 9 levels of voltage as output such that when all the circuits give E outputs then we get total of 4E maximum and when all give -E volts as output we get -4E minimum collective. so we get a range of variable output from -4E to 4E.\\
-However, this circuit is easy to apply but is large in size and has large no of switching resulting thus increase in temperature of the whole circuit. So, generally not reliable.\\
-The ac outputs of each full-bridge inverter are connected in series such that the synthesized voltage waveform is the sum of the inverter outputs.
-For an nine-level inverter which contains four separate sources, the per phase voltage is given by:
-$$Van = Va1 + Va2 + Va3 + Va4 $$
-The required circuit\ref{fig8} and expected waveforms \ref{fig:9} are as shown.\\
-\begin{figure}[htbp]
-	\centering
-		\includegraphics[width = 5in]{./Figures/ninecircuit.pdf}
-		\rule{35em}{5pt}
-	\caption{Cascaded Inverter Circuit(m=4)}
-	\label{fig7}
-\end{figure}
-\begin{figure}[htbp]
-	\centering
-		\includegraphics[width = 3in]{./Figures/ninewave.pdf}
-		\rule{35em}{5pt}
-	\caption{Cascaded Inverter nine levels of output voltage}
-	\label{fig:8}
-\end{figure}
-By increasing the number of levels we can get a more sinusoidal waveform.
-The conducting angles\ref{fig:9} $\theta1, \theta2, \theta3  and  \theta4$ can be chosen such that the voltage total harmonic distortion is minimum.
-Generally, these angles are chosen so that predominant lower frequency harmonics 3, 5, 7, 11, and 13 are eliminated.\\
-Thus, staircase waveform is obtained from the CHB multilevel
-inverter which can be nearly sinusoidal as the number of levels has
-increased, even without using filters. For a three-phase system, the
-output voltage of three single-phase cascaded converters can be
-connected in either $\star  or \delta$  configurations.
-
-\subsection{2 units of H bridge in series}
-In this circuit 2 units of H bridge one with source voltage of E and other with 3E are connected in series to get 9 levels of voltage as output.We get a range of variable output from -4E to 4E as shown:\\
- \begin{center}
-	\begin{tabular}{ |p{4cm}||p{4cm}|p{4cm}|  }
-		\hline
-		\multicolumn{3}{|c|}{Table 9 levels of voltage} \\
-		\hline
-		3E source voltage contained H bridge&E source voltage contained H bridge&Value of voltage as resultant output\\
-		\hline
-		on & on & 4E\\
-		on & off & 3E\\
-		on & inverted & 2E\\
-		off & on & E\\
-		off & off & 0\\
-		off & inverted & -E\\
-		inverted & on & -2E\\
-		inverted & off & -3E\\
-		inverted & inverted & -4E\\
-		\hline
-	\end{tabular}
-\end{center}
-The output voltage of inverter is approximately sine wave with a Total Harmonic Distortion(THD) of less than 5 percent as each switch is working at 180 degree at its fundamental frequency.
-\subsection{Features of Cascaded Inverter}
-\begin{itemize}
-\item The number of possible output voltage levels say m is more than twice the number of dc sources say s (m = 2s + 1).
-\item Ability to reach higher output voltage and power levels.
-\item Capable of reaching medium output voltage levels using lower rating switching components.
-\item Repairing and replacement of faulty module is easy because of its high degree of modularity.
-\item Selecting an appropriate control strategy in the case of fault conditions can bypass the fault module and can ensure continuous current to the load, bringing an almost continuous over all availability.
-\item Ability to synthesize output voltage waveform with lesser value of total harmonic distortion.
-\end{itemize}
-\subsection{Limitations of Cascaded Inverter}
-\begin{itemize}
-\item Separate dc sources are required for each of the H-bridges.
-\item As the number of levels increases, more number of switching devices are required in this configuration. This requirement further increases in three-phase configuration.
-\end{itemize}
-\section{Modulation Techniques for Multilevel Inverter}
+\section{Modulation Techniques for Inverter}
  The inverter dc voltage input $V_d$ is usually fixed while its ac output voltage $V_(AB)$ can be adjusted by different modulation schemes.
 Main objectives of modulation strategy are as follows:
 \begin{itemize}
@@ -274,3 +247,17 @@ Harmonics in the case the of high switching
 frequency modulation techniques appears as side-bands around
 carrier frequency produces high THD which results in trouble some
 filtering.For the project case multi-carrier sinusoidal PWM technique is used.
+\section{LCL filter}
+The use of a LCL-filter mitigates the switching ripple injected in the grid by a three-phase
+active rectifier or Three-phase inverter (VSI). However stability problems could arise in the
+current control loop. In order to overcome them a damping resistor can be inserted, at the cost of
+efficiency. On the contrary the use of the active damping seems really attractive but it is often
+limited by the use of more sensors with respect to the standard control and by the complex tuning
+procedure.
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width = 4in]{./Figures/LCLfilter.jpg}
+		\rule{35em}{5pt}
+	\caption{LCLfilter Circuit}
+	\label{fig:1}
+\end{figure}
